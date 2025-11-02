@@ -1,0 +1,4342 @@
+[
+  {
+    "kode_tiket": "REQ-KMF-022025-0088703",
+    "nama_tenant": "Arsip Nasional Republik Indonesia",
+    "perm_vcpu": "4",
+    "perm_memory": "4",
+    "perm_storage": "128",
+    "assess_vcpu": "4",
+    "assess_memory": "4",
+    "assess_storage": "40"
+  },
+  {
+    "kode_tiket": "REQ-KMF-012025-0088544",
+    "nama_tenant": "Badan Pembinaan Ideologi Pancasila",
+    "perm_vcpu": "0",
+    "perm_memory": "0",
+    "perm_storage": "0",
+    "assess_vcpu": "0",
+    "assess_memory": "0",
+    "assess_storage": "0"
+  },
+  {
+    "kode_tiket": "REQ-KMF-012025-0088472",
+    "nama_tenant": "Lembaga Kebijakan Pengadaan Barang/Jasa Pemerintah",
+    "perm_vcpu": "48",
+    "perm_memory": "192",
+    "perm_storage": "3000",
+    "assess_vcpu": "16",
+    "assess_memory": "32",
+    "assess_storage": "1000"
+  },
+  {
+    "kode_tiket": "REQ-KMF-012025-0088529",
+    "nama_tenant": "Kementerian Komunikasi dan Informatika",
+    "perm_vcpu": "22",
+    "perm_memory": "32",
+    "perm_storage": "175",
+    "assess_vcpu": "2",
+    "assess_memory": "4",
+    "assess_storage": "100"
+  },
+  {
+    "kode_tiket": "REQ-KMF-022025-0088890",
+    "nama_tenant": "Kementerian Komunikasi dan Informatika",
+    "perm_vcpu": "0",
+    "perm_memory": "0",
+    "perm_storage": "0",
+    "assess_vcpu": "0",
+    "assess_memory": "0",
+    "assess_storage": "0"
+  },
+  {
+    "kode_tiket": "REQ-KMF-022025-0088798",
+    "nama_tenant": "Kabupaten Gresik",
+    "perm_vcpu": "8",
+    "perm_memory": "16",
+    "perm_storage": "3000",
+    "assess_vcpu": "4",
+    "assess_memory": "4",
+    "assess_storage": "1024"
+  },
+  {
+    "kode_tiket": "REQ-KMF-022025-0088848",
+    "nama_tenant": "Kabupaten Gorontalo",
+    "perm_vcpu": "24",
+    "perm_memory": "22",
+    "perm_storage": "0",
+    "assess_vcpu": "4",
+    "assess_memory": "8",
+    "assess_storage": "0"
+  },
+  {
+    "kode_tiket": "REQ-KMF-022025-0088800",
+    "nama_tenant": "Kementerian Perhubungan",
+    "perm_vcpu": "0",
+    "perm_memory": "0",
+    "perm_storage": "0",
+    "assess_vcpu": "0",
+    "assess_memory": "0",
+    "assess_storage": "0"
+  },
+  {
+    "kode_tiket": "REQ-KMF-012025-0088410",
+    "nama_tenant": "Kementerian Pendayagunaan Aparatur Negara dan Reformasi Birokrasi",
+    "perm_vcpu": "8",
+    "perm_memory": "16",
+    "perm_storage": "0",
+    "assess_vcpu": "8",
+    "assess_memory": "16",
+    "assess_storage": "0"
+  },
+  {
+    "kode_tiket": "REQ-KMF-022025-0088809",
+    "nama_tenant": "Kementerian Perhubungan",
+    "perm_vcpu": "48",
+    "perm_memory": "64",
+    "perm_storage": "500",
+    "assess_vcpu": "0",
+    "assess_memory": "0",
+    "assess_storage": "0"
+  },
+  {
+    "kode_tiket": "REQ-KMF-022025-0088693",
+    "nama_tenant": "Kota Banjarmasin",
+    "perm_vcpu": "32",
+    "perm_memory": "32",
+    "perm_storage": "10000",
+    "assess_vcpu": "0",
+    "assess_memory": "0",
+    "assess_storage": "0"
+  },
+  {
+    "kode_tiket": "REQ-KMF-012025-0088485",
+    "nama_tenant": "Majelis Permusyawaratan Rakyat",
+    "perm_vcpu": "0",
+    "perm_memory": "0",
+    "perm_storage": "0",
+    "assess_vcpu": "0",
+    "assess_memory": "0",
+    "assess_storage": "0"
+  },
+  {
+    "kode_tiket": "REQ-KMF-012025-0088543",
+    "nama_tenant": "Badan Pembinaan Ideologi Pancasila",
+    "perm_vcpu": "0",
+    "perm_memory": "0",
+    "perm_storage": "0",
+    "assess_vcpu": "0",
+    "assess_memory": "0",
+    "assess_storage": "0"
+  },
+  {
+    "kode_tiket": "REQ-KMF-022025-0088754",
+    "nama_tenant": "Kementerian Komunikasi dan Informatika",
+    "perm_vcpu": "0",
+    "perm_memory": "0",
+    "perm_storage": "0",
+    "assess_vcpu": "0",
+    "assess_memory": "0",
+    "assess_storage": "0"
+  },
+  {
+    "kode_tiket": "REQ-KMF-012025-0088653",
+    "nama_tenant": "Kementerian Pertanian",
+    "perm_vcpu": "210",
+    "perm_memory": "276",
+    "perm_storage": "1200",
+    "assess_vcpu": "50",
+    "assess_memory": "76",
+    "assess_storage": "1200"
+  },
+  {
+    "kode_tiket": "REQ-KMF-012025-0088591",
+    "nama_tenant": "Kota Parepare",
+    "perm_vcpu": "0",
+    "perm_memory": "0",
+    "perm_storage": "0",
+    "assess_vcpu": "0",
+    "assess_memory": "0",
+    "assess_storage": "0"
+  },
+  {
+    "kode_tiket": "REQ-KMF-012025-0088421",
+    "nama_tenant": "Badan Pengawas Obat Dan Makanan",
+    "perm_vcpu": "0",
+    "perm_memory": "0",
+    "perm_storage": "0",
+    "assess_vcpu": "0",
+    "assess_memory": "0",
+    "assess_storage": "0"
+  },
+  {
+    "kode_tiket": "REQ-KMF-022025-0088875",
+    "nama_tenant": "Kabupaten Gresik",
+    "perm_vcpu": "8",
+    "perm_memory": "8",
+    "perm_storage": "400",
+    "assess_vcpu": "0",
+    "assess_memory": "0",
+    "assess_storage": "0"
+  },
+  {
+    "kode_tiket": "REQ-KMF-022025-0088734",
+    "nama_tenant": "Kementerian Komunikasi dan Informatika",
+    "perm_vcpu": "0",
+    "perm_memory": "0",
+    "perm_storage": "0",
+    "assess_vcpu": "0",
+    "assess_memory": "0",
+    "assess_storage": "0"
+  },
+  {
+    "kode_tiket": "REQ-KMF-012025-0088508",
+    "nama_tenant": "Kementerian Energi dan Sumber Daya Mineral",
+    "perm_vcpu": "2",
+    "perm_memory": "4",
+    "perm_storage": "50",
+    "assess_vcpu": "2",
+    "assess_memory": "4",
+    "assess_storage": "50"
+  },
+  {
+    "kode_tiket": "REQ-KMF-022025-0088679",
+    "nama_tenant": "Kementerian Komunikasi dan Informatika",
+    "perm_vcpu": "212",
+    "perm_memory": "1048",
+    "perm_storage": "14724",
+    "assess_vcpu": "212",
+    "assess_memory": "1048",
+    "assess_storage": "14724"
+  },
+  {
+    "kode_tiket": "REQ-KMF-012025-0088610",
+    "nama_tenant": "Kabupaten Tanah Datar",
+    "perm_vcpu": "32",
+    "perm_memory": "32",
+    "perm_storage": "1024",
+    "assess_vcpu": "8",
+    "assess_memory": "8",
+    "assess_storage": "500"
+  },
+  {
+    "kode_tiket": "REQ-KMF-022025-0088701",
+    "nama_tenant": "Kementerian Pekerjaan Umum dan Perumahan Rakyat",
+    "perm_vcpu": "0",
+    "perm_memory": "0",
+    "perm_storage": "0",
+    "assess_vcpu": "0",
+    "assess_memory": "0",
+    "assess_storage": "0"
+  },
+  {
+    "kode_tiket": "REQ-KMF-012025-0088415",
+    "nama_tenant": "Lembaga Kebijakan Pengadaan Barang/Jasa Pemerintah",
+    "perm_vcpu": "0",
+    "perm_memory": "0",
+    "perm_storage": "0",
+    "assess_vcpu": "0",
+    "assess_memory": "0",
+    "assess_storage": "0"
+  },
+  {
+    "kode_tiket": "REQ-KMF-012025-0088528",
+    "nama_tenant": "Lembaga Perlindungan Saksi Dan Korban",
+    "perm_vcpu": "64",
+    "perm_memory": "128",
+    "perm_storage": "150000",
+    "assess_vcpu": "0",
+    "assess_memory": "0",
+    "assess_storage": "0"
+  },
+  {
+    "kode_tiket": "REQ-KMF-022025-0088827",
+    "nama_tenant": "Arsip Nasional Republik Indonesia",
+    "perm_vcpu": "75",
+    "perm_memory": "134",
+    "perm_storage": "26000",
+    "assess_vcpu": "36",
+    "assess_memory": "28",
+    "assess_storage": "0"
+  },
+  {
+    "kode_tiket": "REQ-KMF-012025-0088541",
+    "nama_tenant": "Badan Pembinaan Ideologi Pancasila",
+    "perm_vcpu": "0",
+    "perm_memory": "0",
+    "perm_storage": "0",
+    "assess_vcpu": "0",
+    "assess_memory": "0",
+    "assess_storage": "0"
+  },
+  {
+    "kode_tiket": "REQ-KMF-012025-0088467",
+    "nama_tenant": "Kementerian Komunikasi dan Informatika",
+    "perm_vcpu": "0",
+    "perm_memory": "0",
+    "perm_storage": "0",
+    "assess_vcpu": "0",
+    "assess_memory": "0",
+    "assess_storage": "0"
+  },
+  {
+    "kode_tiket": "REQ-KMF-012025-0088595",
+    "nama_tenant": "Kabupaten Buol",
+    "perm_vcpu": "52",
+    "perm_memory": "108",
+    "perm_storage": "7550",
+    "assess_vcpu": "0",
+    "assess_memory": "0",
+    "assess_storage": "0"
+  },
+  {
+    "kode_tiket": "REQ-KMF-012025-0088608",
+    "nama_tenant": "Kementerian Komunikasi dan Informatika",
+    "perm_vcpu": "36",
+    "perm_memory": "144",
+    "perm_storage": "7680",
+    "assess_vcpu": "36",
+    "assess_memory": "144",
+    "assess_storage": "7680"
+  },
+  {
+    "kode_tiket": "REQ-KMF-022025-0088767",
+    "nama_tenant": "Kementerian Komunikasi dan Informatika",
+    "perm_vcpu": "64",
+    "perm_memory": "192",
+    "perm_storage": "1500",
+    "assess_vcpu": "0",
+    "assess_memory": "32",
+    "assess_storage": "32"
+  },
+  {
+    "kode_tiket": "REQ-KMF-012025-0088488",
+    "nama_tenant": "Kabupaten Seruyan",
+    "perm_vcpu": "28",
+    "perm_memory": "28",
+    "perm_storage": "2000",
+    "assess_vcpu": "20",
+    "assess_memory": "20",
+    "assess_storage": "1000"
+  },
+  {
+    "kode_tiket": "REQ-KMF-012025-0088593",
+    "nama_tenant": "Kementerian Koordinator Bidang Perekonomian Indonesia",
+    "perm_vcpu": "0",
+    "perm_memory": "0",
+    "perm_storage": "0",
+    "assess_vcpu": "0",
+    "assess_memory": "0",
+    "assess_storage": "0"
+  },
+  {
+    "kode_tiket": "REQ-KMF-022025-0088889",
+    "nama_tenant": "Kementerian Komunikasi dan Informatika",
+    "perm_vcpu": "0",
+    "perm_memory": "0",
+    "perm_storage": "0",
+    "assess_vcpu": "0",
+    "assess_memory": "0",
+    "assess_storage": "0"
+  },
+  {
+    "kode_tiket": "REQ-KMF-022025-0088763",
+    "nama_tenant": "Provinsi Riau",
+    "perm_vcpu": "0",
+    "perm_memory": "0",
+    "perm_storage": "0",
+    "assess_vcpu": "0",
+    "assess_memory": "0",
+    "assess_storage": "0"
+  },
+  {
+    "kode_tiket": "REQ-KMF-012025-0088612",
+    "nama_tenant": "Badan Pelindungan Pekerja Migran Indonesia",
+    "perm_vcpu": "0",
+    "perm_memory": "0",
+    "perm_storage": "53000",
+    "assess_vcpu": "0",
+    "assess_memory": "0",
+    "assess_storage": "2048"
+  },
+  {
+    "kode_tiket": "REQ-KMF-022025-0088833",
+    "nama_tenant": "Badan Pembinaan Ideologi Pancasila",
+    "perm_vcpu": "0",
+    "perm_memory": "0",
+    "perm_storage": "0",
+    "assess_vcpu": "0",
+    "assess_memory": "0",
+    "assess_storage": "0"
+  },
+  {
+    "kode_tiket": "REQ-KMF-012025-0088496",
+    "nama_tenant": "Kota Probolinggo",
+    "perm_vcpu": "0",
+    "perm_memory": "0",
+    "perm_storage": "0",
+    "assess_vcpu": "0",
+    "assess_memory": "0",
+    "assess_storage": "0"
+  },
+  {
+    "kode_tiket": "REQ-KMF-022025-0088745",
+    "nama_tenant": "Kabupaten Asahan",
+    "perm_vcpu": "12",
+    "perm_memory": "24",
+    "perm_storage": "500",
+    "assess_vcpu": "8",
+    "assess_memory": "16",
+    "assess_storage": "16"
+  },
+  {
+    "kode_tiket": "REQ-KMF-022025-0088721",
+    "nama_tenant": "Kota Palu",
+    "perm_vcpu": "0",
+    "perm_memory": "0",
+    "perm_storage": "0",
+    "assess_vcpu": "0",
+    "assess_memory": "0",
+    "assess_storage": "0"
+  },
+  {
+    "kode_tiket": "REQ-KMF-012025-0088469",
+    "nama_tenant": "Kabupaten Blitar",
+    "perm_vcpu": "0",
+    "perm_memory": "0",
+    "perm_storage": "0",
+    "assess_vcpu": "0",
+    "assess_memory": "0",
+    "assess_storage": "0"
+  },
+  {
+    "kode_tiket": "REQ-KMF-022025-0088729",
+    "nama_tenant": "Badan Pembinaan Ideologi Pancasila",
+    "perm_vcpu": "0",
+    "perm_memory": "0",
+    "perm_storage": "0",
+    "assess_vcpu": "0",
+    "assess_memory": "0",
+    "assess_storage": "0"
+  },
+  {
+    "kode_tiket": "REQ-KMF-022025-0088830",
+    "nama_tenant": "Kementerian Dalam Negri",
+    "perm_vcpu": "40",
+    "perm_memory": "72",
+    "perm_storage": "2016",
+    "assess_vcpu": "0",
+    "assess_memory": "0",
+    "assess_storage": "0"
+  },
+  {
+    "kode_tiket": "REQ-KMF-012025-0088545",
+    "nama_tenant": "Kementerian Desa, Pembangunan Daerah Tertinggal, dan�Transmigrasi",
+    "perm_vcpu": "84",
+    "perm_memory": "248",
+    "perm_storage": "16700",
+    "assess_vcpu": "0",
+    "assess_memory": "0",
+    "assess_storage": "0"
+  },
+  {
+    "kode_tiket": "REQ-KMF-022025-0088736",
+    "nama_tenant": "Badan Pelindungan Pekerja Migran Indonesia",
+    "perm_vcpu": "0",
+    "perm_memory": "0",
+    "perm_storage": "0",
+    "assess_vcpu": "0",
+    "assess_memory": "0",
+    "assess_storage": "0"
+  },
+  {
+    "kode_tiket": "REQ-KMF-022025-0088755",
+    "nama_tenant": "Kementerian Komunikasi dan Informatika",
+    "perm_vcpu": "0",
+    "perm_memory": "0",
+    "perm_storage": "0",
+    "assess_vcpu": "0",
+    "assess_memory": "0",
+    "assess_storage": "0"
+  },
+  {
+    "kode_tiket": "REQ-KMF-022025-0088794",
+    "nama_tenant": "Kabupaten Kotawaringin Timur",
+    "perm_vcpu": "20",
+    "perm_memory": "56",
+    "perm_storage": "2500",
+    "assess_vcpu": "20",
+    "assess_memory": "56",
+    "assess_storage": "2500"
+  },
+  {
+    "kode_tiket": "REQ-KMF-012025-0088447",
+    "nama_tenant": "Provinsi Riau",
+    "perm_vcpu": "0",
+    "perm_memory": "0",
+    "perm_storage": "0",
+    "assess_vcpu": "0",
+    "assess_memory": "0",
+    "assess_storage": "0"
+  },
+  {
+    "kode_tiket": "REQ-KMF-012025-0088443",
+    "nama_tenant": "Kabupaten Kuantan Singingi",
+    "perm_vcpu": "0",
+    "perm_memory": "0",
+    "perm_storage": "0",
+    "assess_vcpu": "0",
+    "assess_memory": "0",
+    "assess_storage": "0"
+  },
+  {
+    "kode_tiket": "REQ-KMF-022025-0088861",
+    "nama_tenant": "Kementerian Kebudayaan",
+    "perm_vcpu": "0",
+    "perm_memory": "0",
+    "perm_storage": "0",
+    "assess_vcpu": "0",
+    "assess_memory": "0",
+    "assess_storage": "0"
+  },
+  {
+    "kode_tiket": "REQ-KMF-022025-0088872",
+    "nama_tenant": "Badan Siber Dan Sandi Negara",
+    "perm_vcpu": "128",
+    "perm_memory": "128",
+    "perm_storage": "15",
+    "assess_vcpu": "0",
+    "assess_memory": "0",
+    "assess_storage": "0"
+  },
+  {
+    "kode_tiket": "REQ-KMF-012025-0088617",
+    "nama_tenant": "Kementerian Pendayagunaan Aparatur Negara dan Reformasi Birokrasi",
+    "perm_vcpu": "2",
+    "perm_memory": "4",
+    "perm_storage": "150",
+    "assess_vcpu": "2",
+    "assess_memory": "4",
+    "assess_storage": "150"
+  },
+  {
+    "kode_tiket": "REQ-KMF-022025-0088793",
+    "nama_tenant": "Kabupaten Kotawaringin Timur",
+    "perm_vcpu": "0",
+    "perm_memory": "0",
+    "perm_storage": "0",
+    "assess_vcpu": "0",
+    "assess_memory": "0",
+    "assess_storage": "0"
+  },
+  {
+    "kode_tiket": "REQ-KMF-022025-0088762",
+    "nama_tenant": "Kementerian Pekerjaan Umum dan Perumahan Rakyat",
+    "perm_vcpu": "8",
+    "perm_memory": "0",
+    "perm_storage": "0",
+    "assess_vcpu": "0",
+    "assess_memory": "0",
+    "assess_storage": "0"
+  },
+  {
+    "kode_tiket": "REQ-KMF-012025-0088512",
+    "nama_tenant": "Kabupaten Padang Pariaman",
+    "perm_vcpu": "0",
+    "perm_memory": "0",
+    "perm_storage": "0",
+    "assess_vcpu": "0",
+    "assess_memory": "0",
+    "assess_storage": "0"
+  },
+  {
+    "kode_tiket": "REQ-KMF-012025-0088393",
+    "nama_tenant": "Kementerian Komunikasi dan Informatika",
+    "perm_vcpu": "0",
+    "perm_memory": "0",
+    "perm_storage": "0",
+    "assess_vcpu": "0",
+    "assess_memory": "0",
+    "assess_storage": "0"
+  },
+  {
+    "kode_tiket": "REQ-KMF-022025-0088674",
+    "nama_tenant": "Kementerian Komunikasi dan Informatika",
+    "perm_vcpu": "0",
+    "perm_memory": "0",
+    "perm_storage": "0",
+    "assess_vcpu": "0",
+    "assess_memory": "0",
+    "assess_storage": "0"
+  },
+  {
+    "kode_tiket": "REQ-KMF-012025-0088519",
+    "nama_tenant": "Badan Pengawas Obat Dan Makanan",
+    "perm_vcpu": "0",
+    "perm_memory": "0",
+    "perm_storage": "0",
+    "assess_vcpu": "0",
+    "assess_memory": "0",
+    "assess_storage": "0"
+  },
+  {
+    "kode_tiket": "REQ-KMF-012025-0088623",
+    "nama_tenant": "Kabupaten Deli Serdang",
+    "perm_vcpu": "102",
+    "perm_memory": "112",
+    "perm_storage": "17623",
+    "assess_vcpu": "18",
+    "assess_memory": "0",
+    "assess_storage": "8376"
+  },
+  {
+    "kode_tiket": "REQ-KMF-022025-0088802",
+    "nama_tenant": "Badan Keamanan Laut",
+    "perm_vcpu": "0",
+    "perm_memory": "0",
+    "perm_storage": "0",
+    "assess_vcpu": "0",
+    "assess_memory": "0",
+    "assess_storage": "0"
+  },
+  {
+    "kode_tiket": "REQ-KMF-022025-0088747",
+    "nama_tenant": "Kota Gunungsitoli",
+    "perm_vcpu": "0",
+    "perm_memory": "0",
+    "perm_storage": "0",
+    "assess_vcpu": "0",
+    "assess_memory": "0",
+    "assess_storage": "0"
+  },
+  {
+    "kode_tiket": "REQ-KMF-012025-0088480",
+    "nama_tenant": "Kementerian Pendayagunaan Aparatur Negara dan Reformasi Birokrasi",
+    "perm_vcpu": "8",
+    "perm_memory": "32",
+    "perm_storage": "400",
+    "assess_vcpu": "4",
+    "assess_memory": "8",
+    "assess_storage": "200"
+  },
+  {
+    "kode_tiket": "REQ-KMF-022025-0088842",
+    "nama_tenant": "Kabupaten Manggarai Barat",
+    "perm_vcpu": "0",
+    "perm_memory": "0",
+    "perm_storage": "0",
+    "assess_vcpu": "0",
+    "assess_memory": "0",
+    "assess_storage": "0"
+  },
+  {
+    "kode_tiket": "REQ-KMF-012025-0088666",
+    "nama_tenant": "Kementerian Komunikasi dan Informatika",
+    "perm_vcpu": "0",
+    "perm_memory": "0",
+    "perm_storage": "0",
+    "assess_vcpu": "0",
+    "assess_memory": "0",
+    "assess_storage": "0"
+  },
+  {
+    "kode_tiket": "REQ-KMF-012025-0088599",
+    "nama_tenant": "Badan Pembinaan Ideologi Pancasila",
+    "perm_vcpu": "764",
+    "perm_memory": "1136",
+    "perm_storage": "77523",
+    "assess_vcpu": "764",
+    "assess_memory": "1136",
+    "assess_storage": "77523"
+  },
+  {
+    "kode_tiket": "REQ-KMF-012025-0088473",
+    "nama_tenant": "Kabupaten Bulungan",
+    "perm_vcpu": "52",
+    "perm_memory": "100",
+    "perm_storage": "1550",
+    "assess_vcpu": "0",
+    "assess_memory": "0",
+    "assess_storage": "0"
+  },
+  {
+    "kode_tiket": "REQ-KMF-022025-0088844",
+    "nama_tenant": "Arsip Nasional Republik Indonesia",
+    "perm_vcpu": "74",
+    "perm_memory": "134",
+    "perm_storage": "26000",
+    "assess_vcpu": "8",
+    "assess_memory": "8",
+    "assess_storage": "150000"
+  },
+  {
+    "kode_tiket": "REQ-KMF-012025-0088547",
+    "nama_tenant": "Kementerian Dalam Negri",
+    "perm_vcpu": "0",
+    "perm_memory": "0",
+    "perm_storage": "0",
+    "assess_vcpu": "0",
+    "assess_memory": "0",
+    "assess_storage": "0"
+  },
+  {
+    "kode_tiket": "REQ-KMF-022025-0088730",
+    "nama_tenant": "Komisi Nasional Hak Asasi Manusia",
+    "perm_vcpu": "0",
+    "perm_memory": "20",
+    "perm_storage": "0",
+    "assess_vcpu": "0",
+    "assess_memory": "20",
+    "assess_storage": "0"
+  },
+  {
+    "kode_tiket": "REQ-KMF-012025-0088532",
+    "nama_tenant": "Arsip Nasional Republik Indonesia",
+    "perm_vcpu": "16",
+    "perm_memory": "0",
+    "perm_storage": "0",
+    "assess_vcpu": "16",
+    "assess_memory": "0",
+    "assess_storage": "0"
+  },
+  {
+    "kode_tiket": "REQ-KMF-022025-0088858",
+    "nama_tenant": "Kabupaten Deli Serdang",
+    "perm_vcpu": "16",
+    "perm_memory": "16",
+    "perm_storage": "1000",
+    "assess_vcpu": "16",
+    "assess_memory": "16",
+    "assess_storage": "1024"
+  },
+  {
+    "kode_tiket": "REQ-KMF-012025-0088523",
+    "nama_tenant": "Kabupaten Kapuas Hulu",
+    "perm_vcpu": "68",
+    "perm_memory": "126",
+    "perm_storage": "3500",
+    "assess_vcpu": "2",
+    "assess_memory": "4",
+    "assess_storage": "100"
+  },
+  {
+    "kode_tiket": "REQ-KMF-022025-0088808",
+    "nama_tenant": "Kabupaten Asahan",
+    "perm_vcpu": "8",
+    "perm_memory": "4",
+    "perm_storage": "0",
+    "assess_vcpu": "8",
+    "assess_memory": "4",
+    "assess_storage": "0"
+  },
+  {
+    "kode_tiket": "REQ-KMF-012025-0088500",
+    "nama_tenant": "Kabupaten Luwu",
+    "perm_vcpu": "0",
+    "perm_memory": "0",
+    "perm_storage": "0",
+    "assess_vcpu": "0",
+    "assess_memory": "0",
+    "assess_storage": "0"
+  },
+  {
+    "kode_tiket": "REQ-KMF-012025-0088584",
+    "nama_tenant": "Kabupaten Kubu Raya",
+    "perm_vcpu": "0",
+    "perm_memory": "0",
+    "perm_storage": "0",
+    "assess_vcpu": "0",
+    "assess_memory": "0",
+    "assess_storage": "0"
+  },
+  {
+    "kode_tiket": "REQ-KMF-012025-0088517",
+    "nama_tenant": "Kementerian Komunikasi dan Informatika",
+    "perm_vcpu": "0",
+    "perm_memory": "0",
+    "perm_storage": "0",
+    "assess_vcpu": "0",
+    "assess_memory": "0",
+    "assess_storage": "0"
+  },
+  {
+    "kode_tiket": "REQ-KMF-022025-0088790",
+    "nama_tenant": "Kementerian Komunikasi dan Informatika",
+    "perm_vcpu": "84",
+    "perm_memory": "216",
+    "perm_storage": "1200",
+    "assess_vcpu": "84",
+    "assess_memory": "216",
+    "assess_storage": "1200"
+  },
+  {
+    "kode_tiket": "REQ-KMF-012025-0088494",
+    "nama_tenant": "Kota Probolinggo",
+    "perm_vcpu": "0",
+    "perm_memory": "0",
+    "perm_storage": "0",
+    "assess_vcpu": "0",
+    "assess_memory": "0",
+    "assess_storage": "0"
+  },
+  {
+    "kode_tiket": "REQ-KMF-012025-0088422",
+    "nama_tenant": "Kabupaten Banjarnegara",
+    "perm_vcpu": "180",
+    "perm_memory": "276",
+    "perm_storage": "31744",
+    "assess_vcpu": "0",
+    "assess_memory": "0",
+    "assess_storage": "0"
+  },
+  {
+    "kode_tiket": "REQ-KMF-012025-0088434",
+    "nama_tenant": "Kabupaten Luwu",
+    "perm_vcpu": "0",
+    "perm_memory": "0",
+    "perm_storage": "0",
+    "assess_vcpu": "0",
+    "assess_memory": "0",
+    "assess_storage": "0"
+  },
+  {
+    "kode_tiket": "REQ-KMF-012025-0088635",
+    "nama_tenant": "Badan Pusat Statistik",
+    "perm_vcpu": "478",
+    "perm_memory": "1077",
+    "perm_storage": "14070",
+    "assess_vcpu": "360",
+    "assess_memory": "872",
+    "assess_storage": "11000"
+  },
+  {
+    "kode_tiket": "REQ-KMF-012025-0088492",
+    "nama_tenant": "Kota Probolinggo",
+    "perm_vcpu": "0",
+    "perm_memory": "0",
+    "perm_storage": "0",
+    "assess_vcpu": "0",
+    "assess_memory": "0",
+    "assess_storage": "0"
+  },
+  {
+    "kode_tiket": "REQ-KMF-012025-0088431",
+    "nama_tenant": "Kabupaten Konawe",
+    "perm_vcpu": "4",
+    "perm_memory": "9",
+    "perm_storage": "1020",
+    "assess_vcpu": "4",
+    "assess_memory": "9",
+    "assess_storage": "1020"
+  },
+  {
+    "kode_tiket": "REQ-KMF-012025-0088527",
+    "nama_tenant": "Kementerian Komunikasi dan Informatika",
+    "perm_vcpu": "0",
+    "perm_memory": "0",
+    "perm_storage": "0",
+    "assess_vcpu": "0",
+    "assess_memory": "0",
+    "assess_storage": "0"
+  },
+  {
+    "kode_tiket": "REQ-KMF-022025-0088687",
+    "nama_tenant": "Arsip Nasional Republik Indonesia",
+    "perm_vcpu": "0",
+    "perm_memory": "0",
+    "perm_storage": "0",
+    "assess_vcpu": "0",
+    "assess_memory": "0",
+    "assess_storage": "0"
+  },
+  {
+    "kode_tiket": "REQ-KMF-022025-0088905",
+    "nama_tenant": "Kementerian�Ekonomi�Kreatif",
+    "perm_vcpu": "20",
+    "perm_memory": "40",
+    "perm_storage": "1724",
+    "assess_vcpu": "0",
+    "assess_memory": "0",
+    "assess_storage": "0"
+  },
+  {
+    "kode_tiket": "REQ-KMF-012025-0088606",
+    "nama_tenant": "Kabupaten Rejang Lebong",
+    "perm_vcpu": "4",
+    "perm_memory": "8",
+    "perm_storage": "120",
+    "assess_vcpu": "0",
+    "assess_memory": "0",
+    "assess_storage": "0"
+  },
+  {
+    "kode_tiket": "REQ-KMF-022025-0088897",
+    "nama_tenant": "Kabupaten Solok Selatan",
+    "perm_vcpu": "20",
+    "perm_memory": "20",
+    "perm_storage": "2000",
+    "assess_vcpu": "0",
+    "assess_memory": "0",
+    "assess_storage": "0"
+  },
+  {
+    "kode_tiket": "REQ-KMF-022025-0088723",
+    "nama_tenant": "Arsip Nasional Republik Indonesia",
+    "perm_vcpu": "74",
+    "perm_memory": "134",
+    "perm_storage": "26200",
+    "assess_vcpu": "8",
+    "assess_memory": "8",
+    "assess_storage": "158"
+  },
+  {
+    "kode_tiket": "REQ-KMF-012025-0088563",
+    "nama_tenant": "Kabupaten Buton",
+    "perm_vcpu": "32",
+    "perm_memory": "128",
+    "perm_storage": "4000",
+    "assess_vcpu": "12",
+    "assess_memory": "24",
+    "assess_storage": "1500"
+  },
+  {
+    "kode_tiket": "REQ-KMF-012025-0088575",
+    "nama_tenant": "Provinsi Kepulauan Bangka Belitung",
+    "perm_vcpu": "64",
+    "perm_memory": "256",
+    "perm_storage": "8000",
+    "assess_vcpu": "0",
+    "assess_memory": "0",
+    "assess_storage": "0"
+  },
+  {
+    "kode_tiket": "REQ-KMF-022025-0088795",
+    "nama_tenant": "Kabupaten Gorontalo",
+    "perm_vcpu": "40",
+    "perm_memory": "64",
+    "perm_storage": "1024",
+    "assess_vcpu": "24",
+    "assess_memory": "40",
+    "assess_storage": "1000"
+  },
+  {
+    "kode_tiket": "REQ-KMF-012025-0088667",
+    "nama_tenant": "Kementerian Komunikasi dan Informatika",
+    "perm_vcpu": "0",
+    "perm_memory": "0",
+    "perm_storage": "0",
+    "assess_vcpu": "0",
+    "assess_memory": "0",
+    "assess_storage": "0"
+  },
+  {
+    "kode_tiket": "REQ-KMF-012025-0088625",
+    "nama_tenant": "Kabupaten Luwu",
+    "perm_vcpu": "8",
+    "perm_memory": "8",
+    "perm_storage": "208",
+    "assess_vcpu": "0",
+    "assess_memory": "0",
+    "assess_storage": "0"
+  },
+  {
+    "kode_tiket": "REQ-KMF-012025-0088658",
+    "nama_tenant": "Badan Meteorologi Klimatologi Dan Geofisika",
+    "perm_vcpu": "0",
+    "perm_memory": "0",
+    "perm_storage": "100000",
+    "assess_vcpu": "0",
+    "assess_memory": "0",
+    "assess_storage": "20000"
+  },
+  {
+    "kode_tiket": "REQ-KMF-012025-0088448",
+    "nama_tenant": "Provinsi Riau",
+    "perm_vcpu": "0",
+    "perm_memory": "0",
+    "perm_storage": "0",
+    "assess_vcpu": "0",
+    "assess_memory": "0",
+    "assess_storage": "0"
+  },
+  {
+    "kode_tiket": "REQ-KMF-012025-0088652",
+    "nama_tenant": "Kabupaten Sekadau",
+    "perm_vcpu": "16",
+    "perm_memory": "16",
+    "perm_storage": "300",
+    "assess_vcpu": "4",
+    "assess_memory": "8",
+    "assess_storage": "100"
+  },
+  {
+    "kode_tiket": "REQ-KMF-022025-0088821",
+    "nama_tenant": "Kabupaten Gresik",
+    "perm_vcpu": "0",
+    "perm_memory": "0",
+    "perm_storage": "0",
+    "assess_vcpu": "0",
+    "assess_memory": "0",
+    "assess_storage": "0"
+  },
+  {
+    "kode_tiket": "REQ-KMF-022025-0088785",
+    "nama_tenant": "Kabupaten Sekadau",
+    "perm_vcpu": "0",
+    "perm_memory": "0",
+    "perm_storage": "1000",
+    "assess_vcpu": "0",
+    "assess_memory": "0",
+    "assess_storage": "0"
+  },
+  {
+    "kode_tiket": "REQ-KMF-012025-0088597",
+    "nama_tenant": "Kementerian Pekerjaan Umum dan Perumahan Rakyat",
+    "perm_vcpu": "0",
+    "perm_memory": "0",
+    "perm_storage": "0",
+    "assess_vcpu": "0",
+    "assess_memory": "0",
+    "assess_storage": "0"
+  },
+  {
+    "kode_tiket": "REQ-KMF-012025-0088475",
+    "nama_tenant": "Arsip Nasional Republik Indonesia",
+    "perm_vcpu": "0",
+    "perm_memory": "0",
+    "perm_storage": "0",
+    "assess_vcpu": "0",
+    "assess_memory": "0",
+    "assess_storage": "0"
+  },
+  {
+    "kode_tiket": "REQ-KMF-022025-0088806",
+    "nama_tenant": "Kementerian Komunikasi dan Informatika",
+    "perm_vcpu": "0",
+    "perm_memory": "0",
+    "perm_storage": "10000",
+    "assess_vcpu": "0",
+    "assess_memory": "0",
+    "assess_storage": "0"
+  },
+  {
+    "kode_tiket": "REQ-KMF-022025-0088898",
+    "nama_tenant": "Kementerian Komunikasi dan Informatika",
+    "perm_vcpu": "0",
+    "perm_memory": "0",
+    "perm_storage": "0",
+    "assess_vcpu": "0",
+    "assess_memory": "0",
+    "assess_storage": "0"
+  },
+  {
+    "kode_tiket": "REQ-KMF-022025-0088887",
+    "nama_tenant": "Kabupaten Buton Selatan",
+    "perm_vcpu": "0",
+    "perm_memory": "0",
+    "perm_storage": "0",
+    "assess_vcpu": "0",
+    "assess_memory": "0",
+    "assess_storage": "0"
+  },
+  {
+    "kode_tiket": "REQ-KMF-022025-0088792",
+    "nama_tenant": "Lembaga Perlindungan Saksi Dan Korban",
+    "perm_vcpu": "64",
+    "perm_memory": "128",
+    "perm_storage": "150000",
+    "assess_vcpu": "0",
+    "assess_memory": "0",
+    "assess_storage": "0"
+  },
+  {
+    "kode_tiket": "REQ-KMF-012025-0088468",
+    "nama_tenant": "Arsip Nasional Republik Indonesia",
+    "perm_vcpu": "0",
+    "perm_memory": "0",
+    "perm_storage": "0",
+    "assess_vcpu": "0",
+    "assess_memory": "0",
+    "assess_storage": "0"
+  },
+  {
+    "kode_tiket": "REQ-KMF-022025-0088698",
+    "nama_tenant": "Kota Metro",
+    "perm_vcpu": "8",
+    "perm_memory": "16",
+    "perm_storage": "512",
+    "assess_vcpu": "2",
+    "assess_memory": "4",
+    "assess_storage": "512"
+  },
+  {
+    "kode_tiket": "REQ-KMF-022025-0088685",
+    "nama_tenant": "Komisi Penyiaran Indonesia",
+    "perm_vcpu": "12",
+    "perm_memory": "96",
+    "perm_storage": "5500",
+    "assess_vcpu": "12",
+    "assess_memory": "24",
+    "assess_storage": "4048"
+  },
+  {
+    "kode_tiket": "REQ-KMF-012025-0088622",
+    "nama_tenant": "Komisi Nasional Hak Asasi Manusia",
+    "perm_vcpu": "32",
+    "perm_memory": "64",
+    "perm_storage": "500",
+    "assess_vcpu": "32",
+    "assess_memory": "64",
+    "assess_storage": "500"
+  },
+  {
+    "kode_tiket": "REQ-KMF-012025-0088559",
+    "nama_tenant": "Provinsi Bali",
+    "perm_vcpu": "207",
+    "perm_memory": "123",
+    "perm_storage": "6873",
+    "assess_vcpu": "207",
+    "assess_memory": "123",
+    "assess_storage": "6873"
+  },
+  {
+    "kode_tiket": "REQ-KMF-022025-0088678",
+    "nama_tenant": "Kabupaten Buton",
+    "perm_vcpu": "16",
+    "perm_memory": "32",
+    "perm_storage": "1000",
+    "assess_vcpu": "0",
+    "assess_memory": "0",
+    "assess_storage": "0"
+  },
+  {
+    "kode_tiket": "REQ-KMF-012025-0088503",
+    "nama_tenant": "Kabupaten Gorontalo",
+    "perm_vcpu": "0",
+    "perm_memory": "0",
+    "perm_storage": "0",
+    "assess_vcpu": "0",
+    "assess_memory": "0",
+    "assess_storage": "0"
+  },
+  {
+    "kode_tiket": "REQ-KMF-012025-0088462",
+    "nama_tenant": "Kementerian Komunikasi dan Informatika",
+    "perm_vcpu": "0",
+    "perm_memory": "0",
+    "perm_storage": "0",
+    "assess_vcpu": "0",
+    "assess_memory": "0",
+    "assess_storage": "0"
+  },
+  {
+    "kode_tiket": "REQ-KMF-022025-0088868",
+    "nama_tenant": "Lembaga Kebijakan Pengadaan Barang/Jasa Pemerintah",
+    "perm_vcpu": "152",
+    "perm_memory": "448",
+    "perm_storage": "135000",
+    "assess_vcpu": "0",
+    "assess_memory": "0",
+    "assess_storage": "0"
+  },
+  {
+    "kode_tiket": "REQ-KMF-022025-0088668",
+    "nama_tenant": "Kementerian Komunikasi dan Informatika",
+    "perm_vcpu": "0",
+    "perm_memory": "0",
+    "perm_storage": "0",
+    "assess_vcpu": "0",
+    "assess_memory": "0",
+    "assess_storage": "0"
+  },
+  {
+    "kode_tiket": "REQ-KMF-012025-0088546",
+    "nama_tenant": "Kementerian Komunikasi dan Informatika",
+    "perm_vcpu": "0",
+    "perm_memory": "0",
+    "perm_storage": "400",
+    "assess_vcpu": "0",
+    "assess_memory": "0",
+    "assess_storage": "0"
+  },
+  {
+    "kode_tiket": "REQ-KMF-022025-0088672",
+    "nama_tenant": "Kabupaten Lampung Utara",
+    "perm_vcpu": "0",
+    "perm_memory": "0",
+    "perm_storage": "0",
+    "assess_vcpu": "0",
+    "assess_memory": "0",
+    "assess_storage": "0"
+  },
+  {
+    "kode_tiket": "REQ-KMF-022025-0088786",
+    "nama_tenant": "Badan Meteorologi Klimatologi Dan Geofisika",
+    "perm_vcpu": "0",
+    "perm_memory": "16",
+    "perm_storage": "0",
+    "assess_vcpu": "0",
+    "assess_memory": "16",
+    "assess_storage": "0"
+  },
+  {
+    "kode_tiket": "REQ-KMF-022025-0088777",
+    "nama_tenant": "Kabupaten Hulu Sungai Utara",
+    "perm_vcpu": "10",
+    "perm_memory": "16",
+    "perm_storage": "3000",
+    "assess_vcpu": "0",
+    "assess_memory": "0",
+    "assess_storage": "1024"
+  },
+  {
+    "kode_tiket": "REQ-KMF-012025-0088542",
+    "nama_tenant": "Kementerian Pekerjaan Umum dan Perumahan Rakyat",
+    "perm_vcpu": "0",
+    "perm_memory": "0",
+    "perm_storage": "0",
+    "assess_vcpu": "0",
+    "assess_memory": "0",
+    "assess_storage": "0"
+  },
+  {
+    "kode_tiket": "REQ-KMF-022025-0088900",
+    "nama_tenant": "Kementerian Luar Negeri",
+    "perm_vcpu": "0",
+    "perm_memory": "0",
+    "perm_storage": "0",
+    "assess_vcpu": "0",
+    "assess_memory": "0",
+    "assess_storage": "0"
+  },
+  {
+    "kode_tiket": "REQ-KMF-012025-0088592",
+    "nama_tenant": "Kabupaten Sekadau",
+    "perm_vcpu": "24",
+    "perm_memory": "48",
+    "perm_storage": "800",
+    "assess_vcpu": "12",
+    "assess_memory": "10",
+    "assess_storage": "800"
+  },
+  {
+    "kode_tiket": "REQ-KMF-012025-0088572",
+    "nama_tenant": "Lembaga Kebijakan Pengadaan Barang/Jasa Pemerintah",
+    "perm_vcpu": "0",
+    "perm_memory": "0",
+    "perm_storage": "0",
+    "assess_vcpu": "0",
+    "assess_memory": "0",
+    "assess_storage": "0"
+  },
+  {
+    "kode_tiket": "REQ-KMF-022025-0088807",
+    "nama_tenant": "Kementerian Komunikasi dan Informatika",
+    "perm_vcpu": "0",
+    "perm_memory": "0",
+    "perm_storage": "0",
+    "assess_vcpu": "0",
+    "assess_memory": "0",
+    "assess_storage": "0"
+  },
+  {
+    "kode_tiket": "REQ-KMF-012025-0088560",
+    "nama_tenant": "Kota Padangpanjang",
+    "perm_vcpu": "60",
+    "perm_memory": "112",
+    "perm_storage": "3000",
+    "assess_vcpu": "0",
+    "assess_memory": "0",
+    "assess_storage": "0"
+  },
+  {
+    "kode_tiket": "REQ-KMF-022025-0088782",
+    "nama_tenant": "Kementerian Komunikasi dan Informatika",
+    "perm_vcpu": "84",
+    "perm_memory": "216",
+    "perm_storage": "1800",
+    "assess_vcpu": "0",
+    "assess_memory": "0",
+    "assess_storage": "0"
+  },
+  {
+    "kode_tiket": "REQ-KMF-012025-0088601",
+    "nama_tenant": "Badan Pangan Nasional",
+    "perm_vcpu": "10",
+    "perm_memory": "24",
+    "perm_storage": "900",
+    "assess_vcpu": "0",
+    "assess_memory": "0",
+    "assess_storage": "0"
+  },
+  {
+    "kode_tiket": "REQ-KMF-022025-0088727",
+    "nama_tenant": "Kabupaten Konawe",
+    "perm_vcpu": "4",
+    "perm_memory": "9",
+    "perm_storage": "1020",
+    "assess_vcpu": "2",
+    "assess_memory": "0",
+    "assess_storage": "0"
+  },
+  {
+    "kode_tiket": "REQ-KMF-022025-0088797",
+    "nama_tenant": "Kabupaten Gresik",
+    "perm_vcpu": "8",
+    "perm_memory": "8",
+    "perm_storage": "400",
+    "assess_vcpu": "0",
+    "assess_memory": "0",
+    "assess_storage": "0"
+  },
+  {
+    "kode_tiket": "REQ-KMF-022025-0088725",
+    "nama_tenant": "Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi",
+    "perm_vcpu": "64",
+    "perm_memory": "164",
+    "perm_storage": "6",
+    "assess_vcpu": "12",
+    "assess_memory": "6",
+    "assess_storage": "2048"
+  },
+  {
+    "kode_tiket": "REQ-KMF-022025-0088904",
+    "nama_tenant": "Kementerian�Ekonomi�Kreatif",
+    "perm_vcpu": "64",
+    "perm_memory": "164",
+    "perm_storage": "5986",
+    "assess_vcpu": "0",
+    "assess_memory": "0",
+    "assess_storage": "0"
+  },
+  {
+    "kode_tiket": "REQ-KMF-022025-0088708",
+    "nama_tenant": "Kementerian Energi dan Sumber Daya Mineral",
+    "perm_vcpu": "12",
+    "perm_memory": "128",
+    "perm_storage": "2000",
+    "assess_vcpu": "0",
+    "assess_memory": "0",
+    "assess_storage": "0"
+  },
+  {
+    "kode_tiket": "REQ-KMF-022025-0088804",
+    "nama_tenant": "Badan Pembinaan Ideologi Pancasila",
+    "perm_vcpu": "778",
+    "perm_memory": "1152",
+    "perm_storage": "77989",
+    "assess_vcpu": "0",
+    "assess_memory": "0",
+    "assess_storage": "0"
+  },
+  {
+    "kode_tiket": "REQ-KMF-012025-0088477",
+    "nama_tenant": "Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi",
+    "perm_vcpu": "0",
+    "perm_memory": "0",
+    "perm_storage": "0",
+    "assess_vcpu": "0",
+    "assess_memory": "0",
+    "assess_storage": "0"
+  },
+  {
+    "kode_tiket": "REQ-KMF-022025-0088803",
+    "nama_tenant": "Kementerian Komunikasi dan Informatika",
+    "perm_vcpu": "0",
+    "perm_memory": "0",
+    "perm_storage": "0",
+    "assess_vcpu": "0",
+    "assess_memory": "0",
+    "assess_storage": "0"
+  },
+  {
+    "kode_tiket": "REQ-KMF-012025-0088484",
+    "nama_tenant": "Kabupaten Nganjuk",
+    "perm_vcpu": "4",
+    "perm_memory": "8",
+    "perm_storage": "4000",
+    "assess_vcpu": "2",
+    "assess_memory": "4",
+    "assess_storage": "512"
+  },
+  {
+    "kode_tiket": "REQ-KMF-022025-0088712",
+    "nama_tenant": "Kabupaten Luwu",
+    "perm_vcpu": "0",
+    "perm_memory": "0",
+    "perm_storage": "0",
+    "assess_vcpu": "0",
+    "assess_memory": "0",
+    "assess_storage": "0"
+  },
+  {
+    "kode_tiket": "REQ-KMF-022025-0088765",
+    "nama_tenant": "Kementerian Komunikasi dan Informatika",
+    "perm_vcpu": "0",
+    "perm_memory": "0",
+    "perm_storage": "0",
+    "assess_vcpu": "0",
+    "assess_memory": "0",
+    "assess_storage": "0"
+  },
+  {
+    "kode_tiket": "REQ-KMF-012025-0088571",
+    "nama_tenant": "Kota Solok",
+    "perm_vcpu": "32",
+    "perm_memory": "64",
+    "perm_storage": "4000",
+    "assess_vcpu": "0",
+    "assess_memory": "0",
+    "assess_storage": "0"
+  },
+  {
+    "kode_tiket": "REQ-KMF-012025-0088522",
+    "nama_tenant": "Badan Pembinaan Ideologi Pancasila",
+    "perm_vcpu": "0",
+    "perm_memory": "0",
+    "perm_storage": "0",
+    "assess_vcpu": "0",
+    "assess_memory": "0",
+    "assess_storage": "0"
+  },
+  {
+    "kode_tiket": "REQ-KMF-012025-0088463",
+    "nama_tenant": "Provinsi Riau",
+    "perm_vcpu": "0",
+    "perm_memory": "0",
+    "perm_storage": "0",
+    "assess_vcpu": "0",
+    "assess_memory": "0",
+    "assess_storage": "0"
+  },
+  {
+    "kode_tiket": "REQ-KMF-022025-0088908",
+    "nama_tenant": "Kementerian�Ekonomi�Kreatif",
+    "perm_vcpu": "4",
+    "perm_memory": "16",
+    "perm_storage": "100",
+    "assess_vcpu": "0",
+    "assess_memory": "0",
+    "assess_storage": "0"
+  },
+  {
+    "kode_tiket": "REQ-KMF-022025-0088757",
+    "nama_tenant": "Kabupaten Rejang Lebong",
+    "perm_vcpu": "0",
+    "perm_memory": "0",
+    "perm_storage": "550",
+    "assess_vcpu": "0",
+    "assess_memory": "0",
+    "assess_storage": "550"
+  },
+  {
+    "kode_tiket": "REQ-KMF-022025-0088720",
+    "nama_tenant": "Kabupaten Asahan",
+    "perm_vcpu": "0",
+    "perm_memory": "0",
+    "perm_storage": "0",
+    "assess_vcpu": "0",
+    "assess_memory": "0",
+    "assess_storage": "0"
+  },
+  {
+    "kode_tiket": "REQ-KMF-022025-0088835",
+    "nama_tenant": "Kabupaten Ketapang",
+    "perm_vcpu": "0",
+    "perm_memory": "0",
+    "perm_storage": "0",
+    "assess_vcpu": "0",
+    "assess_memory": "0",
+    "assess_storage": "0"
+  },
+  {
+    "kode_tiket": "REQ-KMF-022025-0088852",
+    "nama_tenant": "Badan Pangan Nasional",
+    "perm_vcpu": "0",
+    "perm_memory": "0",
+    "perm_storage": "0",
+    "assess_vcpu": "0",
+    "assess_memory": "0",
+    "assess_storage": "0"
+  },
+  {
+    "kode_tiket": "REQ-KMF-022025-0088789",
+    "nama_tenant": "Kementerian Komunikasi dan Informatika",
+    "perm_vcpu": "12",
+    "perm_memory": "16",
+    "perm_storage": "100",
+    "assess_vcpu": "12",
+    "assess_memory": "16",
+    "assess_storage": "100"
+  },
+  {
+    "kode_tiket": "REQ-KMF-022025-0088761",
+    "nama_tenant": "Arsip Nasional Republik Indonesia",
+    "perm_vcpu": "0",
+    "perm_memory": "0",
+    "perm_storage": "0",
+    "assess_vcpu": "0",
+    "assess_memory": "0",
+    "assess_storage": "0"
+  },
+  {
+    "kode_tiket": "REQ-KMF-022025-0088896",
+    "nama_tenant": "Kementerian Pemuda dan Olahraga",
+    "perm_vcpu": "56",
+    "perm_memory": "79",
+    "perm_storage": "3198",
+    "assess_vcpu": "0",
+    "assess_memory": "0",
+    "assess_storage": "0"
+  },
+  {
+    "kode_tiket": "REQ-KMF-022025-0088760",
+    "nama_tenant": "Arsip Nasional Republik Indonesia",
+    "perm_vcpu": "84",
+    "perm_memory": "280",
+    "perm_storage": "5720",
+    "assess_vcpu": "32",
+    "assess_memory": "0",
+    "assess_storage": "961"
+  },
+  {
+    "kode_tiket": "REQ-KMF-022025-0088867",
+    "nama_tenant": "Badan Pangan Nasional",
+    "perm_vcpu": "0",
+    "perm_memory": "0",
+    "perm_storage": "0",
+    "assess_vcpu": "0",
+    "assess_memory": "0",
+    "assess_storage": "0"
+  },
+  {
+    "kode_tiket": "REQ-KMF-012025-0088466",
+    "nama_tenant": "Kementerian Komunikasi dan Informatika",
+    "perm_vcpu": "24",
+    "perm_memory": "32",
+    "perm_storage": "175",
+    "assess_vcpu": "0",
+    "assess_memory": "0",
+    "assess_storage": "0"
+  },
+  {
+    "kode_tiket": "REQ-KMF-022025-0088855",
+    "nama_tenant": "Kementerian Pekerjaan Umum dan Perumahan Rakyat",
+    "perm_vcpu": "0",
+    "perm_memory": "0",
+    "perm_storage": "0",
+    "assess_vcpu": "0",
+    "assess_memory": "0",
+    "assess_storage": "0"
+  },
+  {
+    "kode_tiket": "REQ-KMF-012025-0088483",
+    "nama_tenant": "Kabupaten Bima",
+    "perm_vcpu": "96",
+    "perm_memory": "80",
+    "perm_storage": "4700",
+    "assess_vcpu": "0",
+    "assess_memory": "0",
+    "assess_storage": "0"
+  },
+  {
+    "kode_tiket": "REQ-KMF-022025-0088846",
+    "nama_tenant": "Kabupaten Rejang Lebong",
+    "perm_vcpu": "0",
+    "perm_memory": "0",
+    "perm_storage": "0",
+    "assess_vcpu": "0",
+    "assess_memory": "0",
+    "assess_storage": "0"
+  },
+  {
+    "kode_tiket": "REQ-KMF-012025-0088514",
+    "nama_tenant": "Kabupaten Padang Pariaman",
+    "perm_vcpu": "24",
+    "perm_memory": "36",
+    "perm_storage": "6000",
+    "assess_vcpu": "0",
+    "assess_memory": "0",
+    "assess_storage": "0"
+  },
+  {
+    "kode_tiket": "REQ-KMF-012025-0088482",
+    "nama_tenant": "Kementerian Komunikasi dan Informatika",
+    "perm_vcpu": "0",
+    "perm_memory": "0",
+    "perm_storage": "0",
+    "assess_vcpu": "0",
+    "assess_memory": "0",
+    "assess_storage": "0"
+  },
+  {
+    "kode_tiket": "REQ-KMF-012025-0088650",
+    "nama_tenant": "Lembaga Kebijakan Pengadaan Barang/Jasa Pemerintah",
+    "perm_vcpu": "8",
+    "perm_memory": "32",
+    "perm_storage": "550",
+    "assess_vcpu": "8",
+    "assess_memory": "16",
+    "assess_storage": "550"
+  },
+  {
+    "kode_tiket": "REQ-KMF-022025-0088740",
+    "nama_tenant": "Komisi Kepolisian Nasional",
+    "perm_vcpu": "0",
+    "perm_memory": "0",
+    "perm_storage": "0",
+    "assess_vcpu": "0",
+    "assess_memory": "0",
+    "assess_storage": "0"
+  },
+  {
+    "kode_tiket": "REQ-KMF-012025-0088636",
+    "nama_tenant": "Badan Pengawas Obat Dan Makanan",
+    "perm_vcpu": "0",
+    "perm_memory": "0",
+    "perm_storage": "1024",
+    "assess_vcpu": "0",
+    "assess_memory": "0",
+    "assess_storage": "1000"
+  },
+  {
+    "kode_tiket": "REQ-KMF-012025-0088596",
+    "nama_tenant": "Kementerian Pekerjaan Umum dan Perumahan Rakyat",
+    "perm_vcpu": "0",
+    "perm_memory": "0",
+    "perm_storage": "2000",
+    "assess_vcpu": "0",
+    "assess_memory": "0",
+    "assess_storage": "0"
+  },
+  {
+    "kode_tiket": "REQ-KMF-012025-0088648",
+    "nama_tenant": "Kementerian Energi dan Sumber Daya Mineral",
+    "perm_vcpu": "0",
+    "perm_memory": "0",
+    "perm_storage": "0",
+    "assess_vcpu": "0",
+    "assess_memory": "0",
+    "assess_storage": "0"
+  },
+  {
+    "kode_tiket": "REQ-KMF-012025-0088661",
+    "nama_tenant": "Kementerian Komunikasi dan Informatika",
+    "perm_vcpu": "0",
+    "perm_memory": "0",
+    "perm_storage": "0",
+    "assess_vcpu": "0",
+    "assess_memory": "0",
+    "assess_storage": "0"
+  },
+  {
+    "kode_tiket": "REQ-KMF-022025-0088671",
+    "nama_tenant": "Provinsi Bali",
+    "perm_vcpu": "100",
+    "perm_memory": "200",
+    "perm_storage": "2000",
+    "assess_vcpu": "4",
+    "assess_memory": "4",
+    "assess_storage": "40"
+  },
+  {
+    "kode_tiket": "REQ-KMF-022025-0088715",
+    "nama_tenant": "Arsip Nasional Republik Indonesia",
+    "perm_vcpu": "48",
+    "perm_memory": "96",
+    "perm_storage": "8340",
+    "assess_vcpu": "48",
+    "assess_memory": "96",
+    "assess_storage": "8540"
+  },
+  {
+    "kode_tiket": "REQ-KMF-012025-0088490",
+    "nama_tenant": "Kota Probolinggo",
+    "perm_vcpu": "0",
+    "perm_memory": "0",
+    "perm_storage": "0",
+    "assess_vcpu": "0",
+    "assess_memory": "0",
+    "assess_storage": "0"
+  },
+  {
+    "kode_tiket": "REQ-KMF-012025-0088417",
+    "nama_tenant": "Kementerian Komunikasi dan Informatika",
+    "perm_vcpu": "0",
+    "perm_memory": "0",
+    "perm_storage": "0",
+    "assess_vcpu": "0",
+    "assess_memory": "0",
+    "assess_storage": "0"
+  },
+  {
+    "kode_tiket": "REQ-KMF-022025-0088699",
+    "nama_tenant": "Lembaga Administrasi Negara",
+    "perm_vcpu": "263",
+    "perm_memory": "968",
+    "perm_storage": "11000",
+    "assess_vcpu": "0",
+    "assess_memory": "0",
+    "assess_storage": "0"
+  },
+  {
+    "kode_tiket": "REQ-KMF-022025-0088692",
+    "nama_tenant": "Kota Banjarmasin",
+    "perm_vcpu": "0",
+    "perm_memory": "0",
+    "perm_storage": "0",
+    "assess_vcpu": "0",
+    "assess_memory": "0",
+    "assess_storage": "0"
+  },
+  {
+    "kode_tiket": "REQ-KMF-022025-0088888",
+    "nama_tenant": "Ombudsman Republik Indonesia",
+    "perm_vcpu": "24",
+    "perm_memory": "28",
+    "perm_storage": "61300",
+    "assess_vcpu": "0",
+    "assess_memory": "0",
+    "assess_storage": "0"
+  },
+  {
+    "kode_tiket": "REQ-KMF-022025-0088840",
+    "nama_tenant": "Kementerian Komunikasi dan Informatika",
+    "perm_vcpu": "0",
+    "perm_memory": "0",
+    "perm_storage": "0",
+    "assess_vcpu": "0",
+    "assess_memory": "0",
+    "assess_storage": "0"
+  },
+  {
+    "kode_tiket": "REQ-KMF-012025-0088534",
+    "nama_tenant": "Kementerian Komunikasi dan Informatika",
+    "perm_vcpu": "0",
+    "perm_memory": "0",
+    "perm_storage": "0",
+    "assess_vcpu": "0",
+    "assess_memory": "0",
+    "assess_storage": "0"
+  },
+  {
+    "kode_tiket": "REQ-KMF-022025-0088891",
+    "nama_tenant": "Kementerian Agama",
+    "perm_vcpu": "16",
+    "perm_memory": "128",
+    "perm_storage": "1880",
+    "assess_vcpu": "0",
+    "assess_memory": "0",
+    "assess_storage": "0"
+  },
+  {
+    "kode_tiket": "REQ-KMF-012025-0088613",
+    "nama_tenant": "Kabupaten Deli Serdang",
+    "perm_vcpu": "8",
+    "perm_memory": "6",
+    "perm_storage": "6144",
+    "assess_vcpu": "0",
+    "assess_memory": "0",
+    "assess_storage": "0"
+  },
+  {
+    "kode_tiket": "REQ-KMF-012025-0088556",
+    "nama_tenant": "Badan Pembinaan Ideologi Pancasila",
+    "perm_vcpu": "0",
+    "perm_memory": "0",
+    "perm_storage": "0",
+    "assess_vcpu": "0",
+    "assess_memory": "0",
+    "assess_storage": "0"
+  },
+  {
+    "kode_tiket": "REQ-KMF-012025-0088481",
+    "nama_tenant": "Kementerian Komunikasi dan Informatika",
+    "perm_vcpu": "0",
+    "perm_memory": "0",
+    "perm_storage": "0",
+    "assess_vcpu": "0",
+    "assess_memory": "0",
+    "assess_storage": "0"
+  },
+  {
+    "kode_tiket": "REQ-KMF-022025-0088719",
+    "nama_tenant": "Kementerian Komunikasi dan Informatika",
+    "perm_vcpu": "0",
+    "perm_memory": "0",
+    "perm_storage": "0",
+    "assess_vcpu": "0",
+    "assess_memory": "0",
+    "assess_storage": "0"
+  },
+  {
+    "kode_tiket": "REQ-KMF-012025-0088451",
+    "nama_tenant": "Badan Pangan Nasional",
+    "perm_vcpu": "0",
+    "perm_memory": "0",
+    "perm_storage": "0",
+    "assess_vcpu": "0",
+    "assess_memory": "0",
+    "assess_storage": "0"
+  },
+  {
+    "kode_tiket": "REQ-KMF-012025-0088493",
+    "nama_tenant": "Kota Probolinggo",
+    "perm_vcpu": "0",
+    "perm_memory": "0",
+    "perm_storage": "0",
+    "assess_vcpu": "0",
+    "assess_memory": "0",
+    "assess_storage": "0"
+  },
+  {
+    "kode_tiket": "REQ-KMF-012025-0088380",
+    "nama_tenant": "Kementerian Pekerjaan Umum dan Perumahan Rakyat",
+    "perm_vcpu": "0",
+    "perm_memory": "0",
+    "perm_storage": "0",
+    "assess_vcpu": "0",
+    "assess_memory": "0",
+    "assess_storage": "0"
+  },
+  {
+    "kode_tiket": "REQ-KMF-012025-0088495",
+    "nama_tenant": "Kota Probolinggo",
+    "perm_vcpu": "0",
+    "perm_memory": "0",
+    "perm_storage": "0",
+    "assess_vcpu": "0",
+    "assess_memory": "0",
+    "assess_storage": "0"
+  },
+  {
+    "kode_tiket": "REQ-KMF-022025-0088866",
+    "nama_tenant": "Kabupaten Buleleng",
+    "perm_vcpu": "0",
+    "perm_memory": "0",
+    "perm_storage": "0",
+    "assess_vcpu": "0",
+    "assess_memory": "0",
+    "assess_storage": "0"
+  },
+  {
+    "kode_tiket": "REQ-KMF-012025-0088580",
+    "nama_tenant": "Kementerian Pekerjaan Umum dan Perumahan Rakyat",
+    "perm_vcpu": "2",
+    "perm_memory": "0",
+    "perm_storage": "0",
+    "assess_vcpu": "2",
+    "assess_memory": "0",
+    "assess_storage": "0"
+  },
+  {
+    "kode_tiket": "REQ-KMF-022025-0088909",
+    "nama_tenant": "Kota Probolinggo",
+    "perm_vcpu": "0",
+    "perm_memory": "0",
+    "perm_storage": "0",
+    "assess_vcpu": "0",
+    "assess_memory": "0",
+    "assess_storage": "0"
+  },
+  {
+    "kode_tiket": "REQ-KMF-022025-0088774",
+    "nama_tenant": "Badan Meteorologi Klimatologi Dan Geofisika",
+    "perm_vcpu": "2",
+    "perm_memory": "8",
+    "perm_storage": "61440",
+    "assess_vcpu": "2",
+    "assess_memory": "8",
+    "assess_storage": "61440"
+  },
+  {
+    "kode_tiket": "REQ-KMF-012025-0088594",
+    "nama_tenant": "Kementerian Koordinator Bidang Perekonomian Indonesia",
+    "perm_vcpu": "0",
+    "perm_memory": "0",
+    "perm_storage": "0",
+    "assess_vcpu": "0",
+    "assess_memory": "0",
+    "assess_storage": "0"
+  },
+  {
+    "kode_tiket": "REQ-KMF-012025-0088643",
+    "nama_tenant": "Kota Probolinggo",
+    "perm_vcpu": "0",
+    "perm_memory": "0",
+    "perm_storage": "0",
+    "assess_vcpu": "0",
+    "assess_memory": "0",
+    "assess_storage": "0"
+  },
+  {
+    "kode_tiket": "REQ-KMF-022025-0088831",
+    "nama_tenant": "Badan Pangan Nasional",
+    "perm_vcpu": "0",
+    "perm_memory": "0",
+    "perm_storage": "0",
+    "assess_vcpu": "0",
+    "assess_memory": "0",
+    "assess_storage": "0"
+  },
+  {
+    "kode_tiket": "REQ-KMF-022025-0088811",
+    "nama_tenant": "Badan Informasi Geospasial",
+    "perm_vcpu": "0",
+    "perm_memory": "0",
+    "perm_storage": "0",
+    "assess_vcpu": "0",
+    "assess_memory": "0",
+    "assess_storage": "0"
+  },
+  {
+    "kode_tiket": "REQ-KMF-022025-0088769",
+    "nama_tenant": "BPH Migas",
+    "perm_vcpu": "16",
+    "perm_memory": "32",
+    "perm_storage": "2000",
+    "assess_vcpu": "0",
+    "assess_memory": "0",
+    "assess_storage": "0"
+  },
+  {
+    "kode_tiket": "REQ-KMF-022025-0088834",
+    "nama_tenant": "Kabupaten Ketapang",
+    "perm_vcpu": "92",
+    "perm_memory": "216",
+    "perm_storage": "1786",
+    "assess_vcpu": "0",
+    "assess_memory": "0",
+    "assess_storage": "0"
+  },
+  {
+    "kode_tiket": "REQ-KMF-022025-0088756",
+    "nama_tenant": "Kota Palopo",
+    "perm_vcpu": "32",
+    "perm_memory": "32",
+    "perm_storage": "1200",
+    "assess_vcpu": "0",
+    "assess_memory": "0",
+    "assess_storage": "0"
+  },
+  {
+    "kode_tiket": "REQ-KMF-022025-0088689",
+    "nama_tenant": "Kementerian Kebudayaan",
+    "perm_vcpu": "124",
+    "perm_memory": "420",
+    "perm_storage": "17902",
+    "assess_vcpu": "92",
+    "assess_memory": "442",
+    "assess_storage": "17590"
+  },
+  {
+    "kode_tiket": "REQ-KMF-022025-0088886",
+    "nama_tenant": "Kabupaten Kampar",
+    "perm_vcpu": "32",
+    "perm_memory": "32",
+    "perm_storage": "512",
+    "assess_vcpu": "0",
+    "assess_memory": "0",
+    "assess_storage": "0"
+  },
+  {
+    "kode_tiket": "REQ-KMF-022025-0088884",
+    "nama_tenant": "Kota Solok",
+    "perm_vcpu": "32",
+    "perm_memory": "64",
+    "perm_storage": "4000",
+    "assess_vcpu": "0",
+    "assess_memory": "0",
+    "assess_storage": "0"
+  },
+  {
+    "kode_tiket": "REQ-KMF-012025-0088633",
+    "nama_tenant": "Kabupaten Barito Timur",
+    "perm_vcpu": "8",
+    "perm_memory": "8",
+    "perm_storage": "624",
+    "assess_vcpu": "8",
+    "assess_memory": "8",
+    "assess_storage": "624"
+  },
+  {
+    "kode_tiket": "REQ-KMF-022025-0088851",
+    "nama_tenant": "Badan Pengawas Obat Dan Makanan",
+    "perm_vcpu": "32",
+    "perm_memory": "0",
+    "perm_storage": "2000",
+    "assess_vcpu": "32",
+    "assess_memory": "0",
+    "assess_storage": "2000"
+  },
+  {
+    "kode_tiket": "REQ-KMF-012025-0088585",
+    "nama_tenant": "Kementerian Agama",
+    "perm_vcpu": "324",
+    "perm_memory": "552",
+    "perm_storage": "37996",
+    "assess_vcpu": "0",
+    "assess_memory": "0",
+    "assess_storage": "0"
+  },
+  {
+    "kode_tiket": "REQ-KMF-022025-0088822",
+    "nama_tenant": "Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi",
+    "perm_vcpu": "304",
+    "perm_memory": "512",
+    "perm_storage": "15000",
+    "assess_vcpu": "90",
+    "assess_memory": "150",
+    "assess_storage": "4000"
+  },
+  {
+    "kode_tiket": "REQ-KMF-012025-0088603",
+    "nama_tenant": "Badan Pembinaan Ideologi Pancasila",
+    "perm_vcpu": "0",
+    "perm_memory": "0",
+    "perm_storage": "0",
+    "assess_vcpu": "0",
+    "assess_memory": "0",
+    "assess_storage": "0"
+  },
+  {
+    "kode_tiket": "REQ-KMF-012025-0088510",
+    "nama_tenant": "Kementerian Perdagangan",
+    "perm_vcpu": "20",
+    "perm_memory": "72",
+    "perm_storage": "2600",
+    "assess_vcpu": "20",
+    "assess_memory": "40",
+    "assess_storage": "1625"
+  },
+  {
+    "kode_tiket": "REQ-KMF-022025-0088881",
+    "nama_tenant": "Kota Bukittinggi",
+    "perm_vcpu": "2",
+    "perm_memory": "4",
+    "perm_storage": "20",
+    "assess_vcpu": "0",
+    "assess_memory": "0",
+    "assess_storage": "0"
+  },
+  {
+    "kode_tiket": "REQ-KMF-022025-0088883",
+    "nama_tenant": "Kabupaten Tabanan",
+    "perm_vcpu": "10",
+    "perm_memory": "16",
+    "perm_storage": "2500",
+    "assess_vcpu": "0",
+    "assess_memory": "0",
+    "assess_storage": "0"
+  },
+  {
+    "kode_tiket": "REQ-KMF-022025-0088838",
+    "nama_tenant": "BPH Migas",
+    "perm_vcpu": "8",
+    "perm_memory": "16",
+    "perm_storage": "500",
+    "assess_vcpu": "0",
+    "assess_memory": "0",
+    "assess_storage": "0"
+  },
+  {
+    "kode_tiket": "REQ-KMF-012025-0088656",
+    "nama_tenant": "Kabupaten Tojo Una-Una",
+    "perm_vcpu": "0",
+    "perm_memory": "0",
+    "perm_storage": "0",
+    "assess_vcpu": "0",
+    "assess_memory": "0",
+    "assess_storage": "0"
+  },
+  {
+    "kode_tiket": "REQ-KMF-022025-0088810",
+    "nama_tenant": "Kabupaten Ende",
+    "perm_vcpu": "0",
+    "perm_memory": "0",
+    "perm_storage": "0",
+    "assess_vcpu": "0",
+    "assess_memory": "0",
+    "assess_storage": "0"
+  },
+  {
+    "kode_tiket": "REQ-KMF-012025-0088526",
+    "nama_tenant": "Kabupaten Deli Serdang",
+    "perm_vcpu": "12",
+    "perm_memory": "52",
+    "perm_storage": "12000",
+    "assess_vcpu": "0",
+    "assess_memory": "0",
+    "assess_storage": "0"
+  },
+  {
+    "kode_tiket": "REQ-KMF-012025-0088566",
+    "nama_tenant": "Kabupaten Hulu Sungai Utara",
+    "perm_vcpu": "0",
+    "perm_memory": "0",
+    "perm_storage": "0",
+    "assess_vcpu": "0",
+    "assess_memory": "0",
+    "assess_storage": "0"
+  },
+  {
+    "kode_tiket": "REQ-KMF-012025-0088489",
+    "nama_tenant": "Kota Probolinggo",
+    "perm_vcpu": "0",
+    "perm_memory": "0",
+    "perm_storage": "0",
+    "assess_vcpu": "0",
+    "assess_memory": "0",
+    "assess_storage": "0"
+  },
+  {
+    "kode_tiket": "REQ-KMF-012025-0088567",
+    "nama_tenant": "Kementerian Dalam Negri",
+    "perm_vcpu": "40",
+    "perm_memory": "72",
+    "perm_storage": "2016",
+    "assess_vcpu": "0",
+    "assess_memory": "0",
+    "assess_storage": "0"
+  },
+  {
+    "kode_tiket": "REQ-KMF-012025-0088419",
+    "nama_tenant": "Kementerian Komunikasi dan Informatika",
+    "perm_vcpu": "0",
+    "perm_memory": "0",
+    "perm_storage": "0",
+    "assess_vcpu": "0",
+    "assess_memory": "0",
+    "assess_storage": "0"
+  },
+  {
+    "kode_tiket": "REQ-KMF-022025-0088865",
+    "nama_tenant": "Kabupaten Tabanan",
+    "perm_vcpu": "0",
+    "perm_memory": "0",
+    "perm_storage": "0",
+    "assess_vcpu": "0",
+    "assess_memory": "0",
+    "assess_storage": "0"
+  },
+  {
+    "kode_tiket": "REQ-KMF-022025-0088737",
+    "nama_tenant": "Kabupaten Mojokerto",
+    "perm_vcpu": "75",
+    "perm_memory": "150",
+    "perm_storage": "10000",
+    "assess_vcpu": "0",
+    "assess_memory": "0",
+    "assess_storage": "0"
+  },
+  {
+    "kode_tiket": "REQ-KMF-012025-0088581",
+    "nama_tenant": "Lembaga Administrasi Negara",
+    "perm_vcpu": "2",
+    "perm_memory": "13",
+    "perm_storage": "0",
+    "assess_vcpu": "0",
+    "assess_memory": "0",
+    "assess_storage": "0"
+  },
+  {
+    "kode_tiket": "REQ-KMF-022025-0088864",
+    "nama_tenant": "Kabupaten Wonosobo",
+    "perm_vcpu": "0",
+    "perm_memory": "0",
+    "perm_storage": "0",
+    "assess_vcpu": "0",
+    "assess_memory": "0",
+    "assess_storage": "0"
+  },
+  {
+    "kode_tiket": "REQ-KMF-012025-0088491",
+    "nama_tenant": "Kota Probolinggo",
+    "perm_vcpu": "0",
+    "perm_memory": "0",
+    "perm_storage": "0",
+    "assess_vcpu": "0",
+    "assess_memory": "0",
+    "assess_storage": "0"
+  },
+  {
+    "kode_tiket": "REQ-KMF-022025-0088906",
+    "nama_tenant": "Kementerian�Ekonomi�Kreatif",
+    "perm_vcpu": "4",
+    "perm_memory": "16",
+    "perm_storage": "100",
+    "assess_vcpu": "0",
+    "assess_memory": "0",
+    "assess_storage": "0"
+  },
+  {
+    "kode_tiket": "REQ-KMF-012025-0088455",
+    "nama_tenant": "Kementerian Komunikasi dan Informatika",
+    "perm_vcpu": "64",
+    "perm_memory": "192",
+    "perm_storage": "5280",
+    "assess_vcpu": "0",
+    "assess_memory": "0",
+    "assess_storage": "0"
+  },
+  {
+    "kode_tiket": "REQ-KMF-022025-0088894",
+    "nama_tenant": "Kota Pangkalpinang",
+    "perm_vcpu": "0",
+    "perm_memory": "0",
+    "perm_storage": "0",
+    "assess_vcpu": "0",
+    "assess_memory": "0",
+    "assess_storage": "0"
+  },
+  {
+    "kode_tiket": "REQ-KMF-022025-0088836",
+    "nama_tenant": "Kabupaten Buol",
+    "perm_vcpu": "62",
+    "perm_memory": "138",
+    "perm_storage": "8389",
+    "assess_vcpu": "0",
+    "assess_memory": "0",
+    "assess_storage": "0"
+  },
+  {
+    "kode_tiket": "REQ-KMF-012025-0088452",
+    "nama_tenant": "Komisi Kepolisian Nasional",
+    "perm_vcpu": "42",
+    "perm_memory": "42",
+    "perm_storage": "80060",
+    "assess_vcpu": "18",
+    "assess_memory": "18",
+    "assess_storage": "80060"
+  },
+  {
+    "kode_tiket": "REQ-KMF-012025-0088639",
+    "nama_tenant": "Kabupaten Jembrana",
+    "perm_vcpu": "0",
+    "perm_memory": "0",
+    "perm_storage": "0",
+    "assess_vcpu": "0",
+    "assess_memory": "0",
+    "assess_storage": "0"
+  },
+  {
+    "kode_tiket": "REQ-KMF-012025-0088649",
+    "nama_tenant": "Kementerian Komunikasi dan Informatika",
+    "perm_vcpu": "64",
+    "perm_memory": "256",
+    "perm_storage": "5176",
+    "assess_vcpu": "64",
+    "assess_memory": "256",
+    "assess_storage": "5176"
+  },
+  {
+    "kode_tiket": "REQ-KMF-022025-0088750",
+    "nama_tenant": "Badan Pengelola Migas Aceh",
+    "perm_vcpu": "44",
+    "perm_memory": "86",
+    "perm_storage": "9010",
+    "assess_vcpu": "72",
+    "assess_memory": "138",
+    "assess_storage": "9464"
+  },
+  {
+    "kode_tiket": "REQ-KMF-022025-0088837",
+    "nama_tenant": "Kabupaten Lampung Tengah",
+    "perm_vcpu": "2",
+    "perm_memory": "4",
+    "perm_storage": "4096",
+    "assess_vcpu": "2",
+    "assess_memory": "2",
+    "assess_storage": "512"
+  },
+  {
+    "kode_tiket": "REQ-KMF-022025-0088680",
+    "nama_tenant": "Kementerian Pendidikan Tinggi, Sains, dan Teknologi",
+    "perm_vcpu": "2834",
+    "perm_memory": "5271",
+    "perm_storage": "149305",
+    "assess_vcpu": "660",
+    "assess_memory": "1464",
+    "assess_storage": "41940"
+  },
+  {
+    "kode_tiket": "REQ-KMF-012025-0088487",
+    "nama_tenant": "Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi",
+    "perm_vcpu": "0",
+    "perm_memory": "0",
+    "perm_storage": "0",
+    "assess_vcpu": "0",
+    "assess_memory": "0",
+    "assess_storage": "0"
+  },
+  {
+    "kode_tiket": "REQ-KMF-012025-0088486",
+    "nama_tenant": "Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi",
+    "perm_vcpu": "48",
+    "perm_memory": "112",
+    "perm_storage": "4196",
+    "assess_vcpu": "48",
+    "assess_memory": "112",
+    "assess_storage": "4196"
+  },
+  {
+    "kode_tiket": "REQ-KMF-012025-0088511",
+    "nama_tenant": "Kementerian Komunikasi dan Informatika",
+    "perm_vcpu": "0",
+    "perm_memory": "0",
+    "perm_storage": "0",
+    "assess_vcpu": "0",
+    "assess_memory": "0",
+    "assess_storage": "0"
+  },
+  {
+    "kode_tiket": "REQ-KMF-012025-0088570",
+    "nama_tenant": "Kabupaten Aceh Besar",
+    "perm_vcpu": "32",
+    "perm_memory": "64",
+    "perm_storage": "500",
+    "assess_vcpu": "52",
+    "assess_memory": "100",
+    "assess_storage": "2022"
+  },
+  {
+    "kode_tiket": "REQ-KMF-022025-0088908",
+    "nama_tenant": "Kementerian�Ekonomi�Kreatif",
+    "perm_vcpu": "64",
+    "perm_memory": "164",
+    "perm_storage": "7914",
+    "assess_vcpu": "36",
+    "assess_memory": "76",
+    "assess_storage": "4234"
+  },
+  {
+    "kode_tiket": "REQ-KMF-022025-0088886",
+    "nama_tenant": "Kabupaten Kampar",
+    "perm_vcpu": "32",
+    "perm_memory": "32",
+    "perm_storage": "512",
+    "assess_vcpu": "8",
+    "assess_memory": "8",
+    "assess_storage": "512"
+  },
+  {
+    "kode_tiket": "REQ-KMF-022025-0088848",
+    "nama_tenant": "Kabupaten Gorontalo",
+    "perm_vcpu": "24",
+    "perm_memory": "22",
+    "perm_storage": "0",
+    "assess_vcpu": "24",
+    "assess_memory": "22",
+    "assess_storage": "0"
+  },
+  {
+    "kode_tiket": "REQ-KMF-012025-0088595",
+    "nama_tenant": "Kabupaten Buol",
+    "perm_vcpu": "52",
+    "perm_memory": "108",
+    "perm_storage": "7550",
+    "assess_vcpu": "4",
+    "assess_memory": "8",
+    "assess_storage": "512"
+  },
+  {
+    "kode_tiket": "REQ-KMF-022025-0088884",
+    "nama_tenant": "Kabupaten Solok",
+    "perm_vcpu": "32",
+    "perm_memory": "64",
+    "perm_storage": "4000",
+    "assess_vcpu": "4",
+    "assess_memory": "4",
+    "assess_storage": "500"
+  },
+  {
+    "kode_tiket": "REQ-KMF-022025-0088875",
+    "nama_tenant": "Kabupaten Gresik",
+    "perm_vcpu": "8",
+    "perm_memory": "8",
+    "perm_storage": "400",
+    "assess_vcpu": "4",
+    "assess_memory": "8",
+    "assess_storage": "200"
+  },
+  {
+    "kode_tiket": "REQ-KMF-022025-0088881",
+    "nama_tenant": "Kota Bukittinggi",
+    "perm_vcpu": "2",
+    "perm_memory": "4",
+    "perm_storage": "20",
+    "assess_vcpu": "2",
+    "assess_memory": "2",
+    "assess_storage": "20"
+  },
+  {
+    "kode_tiket": "REQ-KMF-022025-0088941",
+    "nama_tenant": "Kabupaten Sekadau",
+    "perm_vcpu": "4",
+    "perm_memory": "4",
+    "perm_storage": "100",
+    "assess_vcpu": "2",
+    "assess_memory": "2",
+    "assess_storage": "100"
+  },
+  {
+    "kode_tiket": "REQ-KMF-022025-0088945",
+    "nama_tenant": "Kementerian Komunikasi dan Informatika (Bigdata)",
+    "perm_vcpu": "64",
+    "perm_memory": "256",
+    "perm_storage": "5176",
+    "assess_vcpu": "16",
+    "assess_memory": "32",
+    "assess_storage": "1300"
+  },
+  {
+    "kode_tiket": "REQ-KMF-022025-0088960",
+    "nama_tenant": "BPH Migas",
+    "perm_vcpu": "16",
+    "perm_memory": "128",
+    "perm_storage": "1000",
+    "assess_vcpu": "8",
+    "assess_memory": "16",
+    "assess_storage": "50"
+  },
+  {
+    "kode_tiket": "REQ-KMF-022025-0088944",
+    "nama_tenant": "Kementerian Komunikasi dan Informatika (SPPT-TI)",
+    "perm_vcpu": "48",
+    "perm_memory": "96",
+    "perm_storage": "850",
+    "assess_vcpu": "12",
+    "assess_memory": "24",
+    "assess_storage": "850"
+  },
+  {
+    "kode_tiket": "REQ-KMF-022025-0088883",
+    "nama_tenant": "Kabupaten Tabanan",
+    "perm_vcpu": "10",
+    "perm_memory": "16",
+    "perm_storage": "2500",
+    "assess_vcpu": "0",
+    "assess_memory": "0",
+    "assess_storage": "0"
+  },
+  {
+    "kode_tiket": "REQ-KMF-022025-0088948",
+    "nama_tenant": "Kementerian Komunikasi dan Informatika (DTS)",
+    "perm_vcpu": "0",
+    "perm_memory": "0",
+    "perm_storage": "10000",
+    "assess_vcpu": "0",
+    "assess_memory": "0",
+    "assess_storage": "5000"
+  },
+  {
+    "kode_tiket": "REQ-KMF-022025-0088949",
+    "nama_tenant": "Kabupaten Lombok Tengah",
+    "perm_vcpu": "16",
+    "perm_memory": "32",
+    "perm_storage": "100",
+    "assess_vcpu": "0",
+    "assess_memory": "0",
+    "assess_storage": "0"
+  },
+  {
+    "kode_tiket": "REQ-KMF-022025-0088953",
+    "nama_tenant": "Kabupaten Tabalong",
+    "perm_vcpu": "8",
+    "perm_memory": "32",
+    "perm_storage": "500",
+    "assess_vcpu": "0",
+    "assess_memory": "0",
+    "assess_storage": "0"
+  },
+  {
+    "kode_tiket": "REQ-KMF-022025-0088956",
+    "nama_tenant": "Kota Bukittinggi",
+    "perm_vcpu": "4",
+    "perm_memory": "4",
+    "perm_storage": "20",
+    "assess_vcpu": "2",
+    "assess_memory": "0",
+    "assess_storage": "0"
+  },
+  {
+    "kode_tiket": "REQ-KMF-022025-0088872",
+    "nama_tenant": "Badan Siber Dan Sandi Negara",
+    "perm_vcpu": "128",
+    "perm_memory": "128",
+    "perm_storage": "15000",
+    "assess_vcpu": "0",
+    "assess_memory": "0",
+    "assess_storage": "0"
+  },
+  {
+    "kode_tiket": "REQ-KMF-022025-0088891",
+    "nama_tenant": "Kementerian Agama",
+    "perm_vcpu": "20",
+    "perm_memory": "128",
+    "perm_storage": "1880",
+    "assess_vcpu": "0",
+    "assess_memory": "0",
+    "assess_storage": "0"
+  },
+  {
+    "kode_tiket": "REQ-KMF-022025-0088868",
+    "nama_tenant": "Lembaga Kebijakan Pengadaan Barang/Jasa Pemerintah",
+    "perm_vcpu": "152",
+    "perm_memory": "448",
+    "perm_storage": "135000",
+    "assess_vcpu": "0",
+    "assess_memory": "54",
+    "assess_storage": "20000"
+  },
+  {
+    "kode_tiket": "REQ-KMF-022025-0089001",
+    "nama_tenant": "Kabupaten Gorontalo",
+    "perm_vcpu": "0",
+    "perm_memory": "16",
+    "perm_storage": "0",
+    "assess_vcpu": "0",
+    "assess_memory": "16",
+    "assess_storage": "0"
+  },
+  {
+    "kode_tiket": "REQ-KMF-022025-0088742",
+    "nama_tenant": "Kabupaten Tabanan",
+    "perm_vcpu": "14",
+    "perm_memory": "26",
+    "perm_storage": "2700",
+    "assess_vcpu": "10",
+    "assess_memory": "18",
+    "assess_storage": "1700"
+  },
+  {
+    "kode_tiket": "REQ-KMF-032025-0089040",
+    "nama_tenant": "Kabupaten Kampar",
+    "perm_vcpu": "32",
+    "perm_memory": "32",
+    "perm_storage": "512",
+    "assess_vcpu": "8",
+    "assess_memory": "8",
+    "assess_storage": "512"
+  },
+  {
+    "kode_tiket": "REQ-KMF-032025-0089145",
+    "nama_tenant": "Kementerian Perencanaan Pembangunan Nasional",
+    "perm_vcpu": "0",
+    "perm_memory": "0",
+    "perm_storage": "0",
+    "assess_vcpu": "0",
+    "assess_memory": "0",
+    "assess_storage": "0"
+  },
+  {
+    "kode_tiket": "REQ-KMF-032025-0089138",
+    "nama_tenant": "Kementerian Pendayagunaan Aparatur Negara dan Reformasi Birokrasi",
+    "perm_vcpu": "6",
+    "perm_memory": "56",
+    "perm_storage": "0",
+    "assess_vcpu": "6",
+    "assess_memory": "56",
+    "assess_storage": "0"
+  },
+  {
+    "kode_tiket": "REQ-KMF-032025-0089156",
+    "nama_tenant": "Badan Koordinasi Penanaman Modal ( BKPM )",
+    "perm_vcpu": "16",
+    "perm_memory": "64",
+    "perm_storage": "500",
+    "assess_vcpu": "16",
+    "assess_memory": "64",
+    "assess_storage": "500"
+  },
+  {
+    "kode_tiket": "REQ-KMF-032025-0089155",
+    "nama_tenant": "Kota Mataram",
+    "perm_vcpu": "48",
+    "perm_memory": "96",
+    "perm_storage": "3000",
+    "assess_vcpu": "12",
+    "assess_memory": "38",
+    "assess_storage": "900"
+  },
+  {
+    "kode_tiket": "REQ-KMF-032025-0089153",
+    "nama_tenant": "Kabupaten Ketapang",
+    "perm_vcpu": "8",
+    "perm_memory": "16",
+    "perm_storage": "256",
+    "assess_vcpu": "4",
+    "assess_memory": "4",
+    "assess_storage": "0"
+  },
+  {
+    "kode_tiket": "REQ-KMF-032025-0089160",
+    "nama_tenant": "Kementerian Komunikasi dan Informatika - Ekosistem SDM Komdigi (DTS)",
+    "perm_vcpu": "286",
+    "perm_memory": "428",
+    "perm_storage": "8580",
+    "assess_vcpu": "144",
+    "assess_memory": "144",
+    "assess_storage": "2130"
+  },
+  {
+    "kode_tiket": "REQ-KMF-032025-0089171",
+    "nama_tenant": "Kementerian Pekerjaan Umum dan Perumahan Rakyat",
+    "perm_vcpu": "4",
+    "perm_memory": "0",
+    "perm_storage": "0",
+    "assess_vcpu": "0",
+    "assess_memory": "0",
+    "assess_storage": "0"
+  },
+  {
+    "kode_tiket": "REQ-KMF-032025-0089169",
+    "nama_tenant": "Kementerian Komunikasi dan Informatika - SPLP",
+    "perm_vcpu": "24",
+    "perm_memory": "64",
+    "perm_storage": "0",
+    "assess_vcpu": "24",
+    "assess_memory": "64",
+    "assess_storage": "0"
+  },
+  {
+    "kode_tiket": "REQ-KMF-032025-0089168",
+    "nama_tenant": "Kota Batam",
+    "perm_vcpu": "4",
+    "perm_memory": "8",
+    "perm_storage": "50",
+    "assess_vcpu": "4",
+    "assess_memory": "8",
+    "assess_storage": "50"
+  },
+  {
+    "kode_tiket": "REQ-KMF-032025-0089225",
+    "nama_tenant": "Kota Metro",
+    "perm_vcpu": "8",
+    "perm_memory": "16",
+    "perm_storage": "500",
+    "assess_vcpu": "4",
+    "assess_memory": "2",
+    "assess_storage": "200"
+  },
+  {
+    "kode_tiket": "REQ-KMF-032025-0089223",
+    "nama_tenant": "Kabupaten Kotawaringin Timur",
+    "perm_vcpu": "20",
+    "perm_memory": "56",
+    "perm_storage": "2500",
+    "assess_vcpu": "0",
+    "assess_memory": "0",
+    "assess_storage": "0"
+  },
+  {
+    "kode_tiket": "REQ-KMF-032025-0089228",
+    "nama_tenant": "Badan Pusat Statistik",
+    "perm_vcpu": "5",
+    "perm_memory": "64",
+    "perm_storage": "0",
+    "assess_vcpu": "5",
+    "assess_memory": "64",
+    "assess_storage": "0"
+  },
+  {
+    "kode_tiket": "REQ-KMF-032025-0089125",
+    "nama_tenant": "Kementerian Ekonomi Kreatif",
+    "perm_vcpu": "32",
+    "perm_memory": "62",
+    "perm_storage": "2944",
+    "assess_vcpu": "32",
+    "assess_memory": "62",
+    "assess_storage": "2944"
+  },
+  {
+    "kode_tiket": "REQ-KMF-032025-0089059",
+    "nama_tenant": "Kota Padang Panjang",
+    "perm_vcpu": "60",
+    "perm_memory": "112",
+    "perm_storage": "3000",
+    "assess_vcpu": "58",
+    "assess_memory": "100",
+    "assess_storage": "3000"
+  },
+  {
+    "kode_tiket": "REQ-KMF-032025-0089058",
+    "nama_tenant": "Provinsi Bengkulu",
+    "perm_vcpu": "116",
+    "perm_memory": "208",
+    "perm_storage": "23000",
+    "assess_vcpu": "18",
+    "assess_memory": "36",
+    "assess_storage": "3150"
+  },
+  {
+    "kode_tiket": "REQ-KMF-032025-0089034",
+    "nama_tenant": "Kementerian Pendayagunaan Aparatur Negara dan Reformasi Birokrasi",
+    "perm_vcpu": "8",
+    "perm_memory": "16",
+    "perm_storage": "0",
+    "assess_vcpu": "8",
+    "assess_memory": "16",
+    "assess_storage": "0"
+  },
+  {
+    "kode_tiket": "REQ-KMF-032025-0089071",
+    "nama_tenant": "Arsip Nasional Republik Indonesia",
+    "perm_vcpu": "32",
+    "perm_memory": "32",
+    "perm_storage": "5000",
+    "assess_vcpu": "8",
+    "assess_memory": "16",
+    "assess_storage": "2000"
+  },
+  {
+    "kode_tiket": "REQ-KMF-032025-0089056",
+    "nama_tenant": "Kementerian Komunikasi dan Informatika",
+    "perm_vcpu": "6",
+    "perm_memory": "24",
+    "perm_storage": "424",
+    "assess_vcpu": "4",
+    "assess_memory": "8",
+    "assess_storage": "424"
+  },
+  {
+    "kode_tiket": "REQ-KMF-032025-0089061",
+    "nama_tenant": "Kabupaten Tulungagung",
+    "perm_vcpu": "10",
+    "perm_memory": "20",
+    "perm_storage": "40",
+    "assess_vcpu": "4",
+    "assess_memory": "8",
+    "assess_storage": "40"
+  },
+  {
+    "kode_tiket": "REQ-KMF-032025-0089048",
+    "nama_tenant": "Kabupaten Kuningan",
+    "perm_vcpu": "4",
+    "perm_memory": "16",
+    "perm_storage": "100",
+    "assess_vcpu": "4",
+    "assess_memory": "8",
+    "assess_storage": "100"
+  },
+  {
+    "kode_tiket": "REQ-KMF-032025-0089142",
+    "nama_tenant": "Badan Kependudukan Dan Keluarga Berencana Nasional",
+    "perm_vcpu": "28",
+    "perm_memory": "104",
+    "perm_storage": "1500",
+    "assess_vcpu": "16",
+    "assess_memory": "8",
+    "assess_storage": "1500"
+  },
+  {
+    "kode_tiket": "REQ-KMF-032025-0089127",
+    "nama_tenant": "Otorita Ibu Kota Nusantara",
+    "perm_vcpu": "68",
+    "perm_memory": "248",
+    "perm_storage": "36900",
+    "assess_vcpu": "74",
+    "assess_memory": "188",
+    "assess_storage": "11510"
+  },
+  {
+    "kode_tiket": "REQ-KMF-032025-0089133",
+    "nama_tenant": "Kota Bandung",
+    "perm_vcpu": "16",
+    "perm_memory": "32",
+    "perm_storage": "700",
+    "assess_vcpu": "6",
+    "assess_memory": "12",
+    "assess_storage": "700"
+  },
+  {
+    "kode_tiket": "REQ-KMF-032025-0089140",
+    "nama_tenant": "Kabupaten Barito Kuala",
+    "perm_vcpu": "64",
+    "perm_memory": "128",
+    "perm_storage": "10000",
+    "assess_vcpu": "4",
+    "assess_memory": "8",
+    "assess_storage": "1000"
+  },
+  {
+    "kode_tiket": "REQ-KMF-032025-0089195",
+    "nama_tenant": "Badan Pembinaan Ideologi Pancasila",
+    "perm_vcpu": "8",
+    "perm_memory": "8",
+    "perm_storage": "0",
+    "assess_vcpu": "8",
+    "assess_memory": "8",
+    "assess_storage": "0"
+  },
+  {
+    "kode_tiket": "REQ-KMF-032025-0089180",
+    "nama_tenant": "Dewan Pertimbangan�Presiden",
+    "perm_vcpu": "52",
+    "perm_memory": "128",
+    "perm_storage": "2500",
+    "assess_vcpu": "22",
+    "assess_memory": "44",
+    "assess_storage": "2500"
+  },
+  {
+    "kode_tiket": "REQ-KMF-032025-0089199",
+    "nama_tenant": "Kementerian Energi dan Sumber Daya Mineral",
+    "perm_vcpu": "48",
+    "perm_memory": "192",
+    "perm_storage": "192",
+    "assess_vcpu": "48",
+    "assess_memory": "192",
+    "assess_storage": "192"
+  },
+  {
+    "kode_tiket": "REQ-KMF-032025-0089217",
+    "nama_tenant": "Kabupaten Mojokerto",
+    "perm_vcpu": "24",
+    "perm_memory": "56",
+    "perm_storage": "600",
+    "assess_vcpu": "24",
+    "assess_memory": "56",
+    "assess_storage": "850"
+  },
+  {
+    "kode_tiket": "REQ-KMF-042025-0089260",
+    "nama_tenant": "Kota Bandung",
+    "perm_vcpu": "20",
+    "perm_memory": "30",
+    "perm_storage": "550",
+    "assess_vcpu": "20",
+    "assess_memory": "30",
+    "assess_storage": "550"
+  },
+  {
+    "kode_tiket": "REQ-KMF-042025-0089261",
+    "nama_tenant": "Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi",
+    "perm_vcpu": "16",
+    "perm_memory": "32",
+    "perm_storage": "1000",
+    "assess_vcpu": "24",
+    "assess_memory": "32",
+    "assess_storage": "1500"
+  },
+  {
+    "kode_tiket": "REQ-KMF-042025-0089257",
+    "nama_tenant": "Kementerian Energi dan Sumber Daya Mineral",
+    "perm_vcpu": "700",
+    "perm_memory": "0",
+    "perm_storage": "0",
+    "assess_vcpu": "700",
+    "assess_memory": "0",
+    "assess_storage": "0"
+  },
+  {
+    "kode_tiket": "REQ-KMF-042025-0089300",
+    "nama_tenant": "Kabupaten Bandung",
+    "perm_vcpu": "32",
+    "perm_memory": "112",
+    "perm_storage": "2500",
+    "assess_vcpu": "8",
+    "assess_memory": "80",
+    "assess_storage": "1500"
+  },
+  {
+    "kode_tiket": "REQ-KMF-042025-0089305",
+    "nama_tenant": "Kementerian Koordinator Bidang Kemaritiman dan Investasi (Marves)",
+    "perm_vcpu": "9",
+    "perm_memory": "10",
+    "perm_storage": "82",
+    "assess_vcpu": "9",
+    "assess_memory": "10",
+    "assess_storage": "82"
+  },
+  {
+    "kode_tiket": "REQ-KMF-042025-0089363",
+    "nama_tenant": "Badan Pengawas Obat Dan Makanan",
+    "perm_vcpu": "0",
+    "perm_memory": "0",
+    "perm_storage": "1028",
+    "assess_vcpu": "0",
+    "assess_memory": "0",
+    "assess_storage": "1028"
+  },
+  {
+    "kode_tiket": "REQ-KMF-042025-0089395",
+    "nama_tenant": "Ombudsman Republik Indonesia",
+    "perm_vcpu": "4",
+    "perm_memory": "0",
+    "perm_storage": "0",
+    "assess_vcpu": "4",
+    "assess_memory": "0",
+    "assess_storage": "0"
+  },
+  {
+    "kode_tiket": "REQ-KMF-042025-0089403",
+    "nama_tenant": "Kementerian Komunikasi dan Informatika",
+    "perm_vcpu": "168",
+    "perm_memory": "536",
+    "perm_storage": "13528",
+    "assess_vcpu": "82",
+    "assess_memory": "176",
+    "assess_storage": "13128"
+  },
+  {
+    "kode_tiket": "REQ-KMF-042025-0089410",
+    "nama_tenant": "Kabupaten Tabanan",
+    "perm_vcpu": "6",
+    "perm_memory": "16",
+    "perm_storage": "500",
+    "assess_vcpu": "4",
+    "assess_memory": "8",
+    "assess_storage": "500"
+  },
+  {
+    "kode_tiket": "REQ-KMF-042025-0089413",
+    "nama_tenant": "Kabupaten Ponorogo",
+    "perm_vcpu": "8",
+    "perm_memory": "8",
+    "perm_storage": "1000",
+    "assess_vcpu": "4",
+    "assess_memory": "8",
+    "assess_storage": "1000"
+  },
+  {
+    "kode_tiket": "REQ-KMF-042025-0089425",
+    "nama_tenant": "Kabupaten Tabalong",
+    "perm_vcpu": "0",
+    "perm_memory": "4",
+    "perm_storage": "0",
+    "assess_vcpu": "0",
+    "assess_memory": "4",
+    "assess_storage": "0"
+  },
+  {
+    "kode_tiket": "REQ-KMF-042025-0089418",
+    "nama_tenant": "Kota Kendari",
+    "perm_vcpu": "40",
+    "perm_memory": "80",
+    "perm_storage": "12500",
+    "assess_vcpu": "10",
+    "assess_memory": "20",
+    "assess_storage": "6500"
+  },
+  {
+    "kode_tiket": "REQ-KMF-042025-0089438",
+    "nama_tenant": "Badan Pengawas Obat Dan Makanan",
+    "perm_vcpu": "0",
+    "perm_memory": "0",
+    "perm_storage": "1028",
+    "assess_vcpu": "0",
+    "assess_memory": "0",
+    "assess_storage": "1028"
+  },
+  {
+    "kode_tiket": "REQ-KMF-042025-0089274",
+    "nama_tenant": "Badan Pembinaan Ideologi Pancasila",
+    "perm_vcpu": "24",
+    "perm_memory": "30",
+    "perm_storage": "0",
+    "assess_vcpu": "24",
+    "assess_memory": "12",
+    "assess_storage": "12"
+  },
+  {
+    "kode_tiket": "REQ-KMF-042025-0089267",
+    "nama_tenant": "Provinsi Gorontalo",
+    "perm_vcpu": "1280",
+    "perm_memory": "2640",
+    "perm_storage": "1280",
+    "assess_vcpu": "46",
+    "assess_memory": "92",
+    "assess_storage": "1000"
+  },
+  {
+    "kode_tiket": "REQ-KMF-042025-0089262",
+    "nama_tenant": "Kabupaten Banyuasin",
+    "perm_vcpu": "64",
+    "perm_memory": "128",
+    "perm_storage": "0",
+    "assess_vcpu": "4",
+    "assess_memory": "8",
+    "assess_storage": "600"
+  },
+  {
+    "kode_tiket": "REQ-KMF-042025-0089247",
+    "nama_tenant": "Kota Bukittinggi",
+    "perm_vcpu": "0",
+    "perm_memory": "0",
+    "perm_storage": "0",
+    "assess_vcpu": "0",
+    "assess_memory": "0",
+    "assess_storage": "0"
+  },
+  {
+    "kode_tiket": "REQ-KMF-042025-0089294",
+    "nama_tenant": "Badan Pengawas Obat Dan Makanan",
+    "perm_vcpu": "0",
+    "perm_memory": "0",
+    "perm_storage": "1550",
+    "assess_vcpu": "0",
+    "assess_memory": "0",
+    "assess_storage": "1550"
+  },
+  {
+    "kode_tiket": "REQ-KMF-042025-0089264",
+    "nama_tenant": "Kabupaten Gresik",
+    "perm_vcpu": "800",
+    "perm_memory": "1008",
+    "perm_storage": "158",
+    "assess_vcpu": "162",
+    "assess_memory": "127",
+    "assess_storage": "127"
+  },
+  {
+    "kode_tiket": "REQ-KMF-042025-0089304",
+    "nama_tenant": "Kabupaten Jembrana",
+    "perm_vcpu": "0",
+    "perm_memory": "0",
+    "perm_storage": "2",
+    "assess_vcpu": "0",
+    "assess_memory": "0",
+    "assess_storage": "2"
+  },
+  {
+    "kode_tiket": "REQ-KMF-042025-0089281",
+    "nama_tenant": "Badan Pelindungan Pekerja Migran Indonesia",
+    "perm_vcpu": "170",
+    "perm_memory": "364",
+    "perm_storage": "1774",
+    "assess_vcpu": "170",
+    "assess_memory": "364",
+    "assess_storage": "1774"
+  },
+  {
+    "kode_tiket": "REQ-KMF-042025-0089251",
+    "nama_tenant": "Kabupaten Sanggau",
+    "perm_vcpu": "20",
+    "perm_memory": "20",
+    "perm_storage": "1088",
+    "assess_vcpu": "8",
+    "assess_memory": "8",
+    "assess_storage": "1088"
+  },
+  {
+    "kode_tiket": "REQ-KMF-042025-0089299",
+    "nama_tenant": "Kabupaten Blitar",
+    "perm_vcpu": "4",
+    "perm_memory": "26",
+    "perm_storage": "21",
+    "assess_vcpu": "4",
+    "assess_memory": "26",
+    "assess_storage": "0"
+  },
+  {
+    "kode_tiket": "REQ-KMF-042025-0089290",
+    "nama_tenant": "Kota Cimahi",
+    "perm_vcpu": "0",
+    "perm_memory": "16",
+    "perm_storage": "0",
+    "assess_vcpu": "0",
+    "assess_memory": "4",
+    "assess_storage": "4"
+  },
+  {
+    "kode_tiket": "REQ-KMF-042025-0089289",
+    "nama_tenant": "Kabupaten Tabalong",
+    "perm_vcpu": "0",
+    "perm_memory": "8",
+    "perm_storage": "0",
+    "assess_vcpu": "0",
+    "assess_memory": "4",
+    "assess_storage": "0"
+  },
+  {
+    "kode_tiket": "REQ-KMF-042025-0089327",
+    "nama_tenant": "Kab Palopo",
+    "perm_vcpu": "16",
+    "perm_memory": "16",
+    "perm_storage": "0",
+    "assess_vcpu": "16",
+    "assess_memory": "16",
+    "assess_storage": "0"
+  },
+  {
+    "kode_tiket": "REQ-KMF-042025-0089331",
+    "nama_tenant": "Kabupaten Kepulauan Tanimbar",
+    "perm_vcpu": "4",
+    "perm_memory": "8",
+    "perm_storage": "50",
+    "assess_vcpu": "2",
+    "assess_memory": "4",
+    "assess_storage": "50"
+  },
+  {
+    "kode_tiket": "REQ-KMF-042025-0089303",
+    "nama_tenant": "Kementerian Energi dan Sumber Daya Mineral",
+    "perm_vcpu": "0",
+    "perm_memory": "0",
+    "perm_storage": "50000",
+    "assess_vcpu": "0",
+    "assess_memory": "0",
+    "assess_storage": "0"
+  },
+  {
+    "kode_tiket": "REQ-KMF-042025-0089285",
+    "nama_tenant": "Kabupaten Tojo Una-Una",
+    "perm_vcpu": "32",
+    "perm_memory": "64",
+    "perm_storage": "2500",
+    "assess_vcpu": "12",
+    "assess_memory": "16",
+    "assess_storage": "800"
+  },
+  {
+    "kode_tiket": "REQ-KMF-042025-0089277",
+    "nama_tenant": "Kabupaten Blitar",
+    "perm_vcpu": "48",
+    "perm_memory": "64",
+    "perm_storage": "1000",
+    "assess_vcpu": "24",
+    "assess_memory": "24",
+    "assess_storage": "300"
+  },
+  {
+    "kode_tiket": "REQ-KMF-042025-0089275",
+    "nama_tenant": "Badan Kependudukan Dan Keluarga Berencana Nasional",
+    "perm_vcpu": "136",
+    "perm_memory": "266",
+    "perm_storage": "6500",
+    "assess_vcpu": "120",
+    "assess_memory": "105",
+    "assess_storage": "3000"
+  },
+  {
+    "kode_tiket": "REQ-KMF-042025-0089283",
+    "nama_tenant": "Kabupaten Kupang",
+    "perm_vcpu": "16",
+    "perm_memory": "128",
+    "perm_storage": "2000",
+    "assess_vcpu": "16",
+    "assess_memory": "16",
+    "assess_storage": "500"
+  },
+  {
+    "kode_tiket": "REQ-KMF-042025-0089303",
+    "nama_tenant": "`Kementerian Energi dan Sumber Daya Mineral",
+    "perm_vcpu": "0",
+    "perm_memory": "0",
+    "perm_storage": "50000",
+    "assess_vcpu": "0",
+    "assess_memory": "0",
+    "assess_storage": "10000"
+  },
+  {
+    "kode_tiket": "REQ-KMF-042025-0089331",
+    "nama_tenant": "Kabupaten Kepulauan Tanimbar",
+    "perm_vcpu": "4",
+    "perm_memory": "8",
+    "perm_storage": "50",
+    "assess_vcpu": "2",
+    "assess_memory": "4",
+    "assess_storage": "50"
+  },
+  {
+    "kode_tiket": "REQ-KMF-042025-0089327",
+    "nama_tenant": "Kota Palopo",
+    "perm_vcpu": "16",
+    "perm_memory": "16",
+    "perm_storage": "16",
+    "assess_vcpu": "16",
+    "assess_memory": "0",
+    "assess_storage": "0"
+  },
+  {
+    "kode_tiket": "REQ-KMF-042025-0089335",
+    "nama_tenant": "Kabupaten Blitar",
+    "perm_vcpu": "0",
+    "perm_memory": "0",
+    "perm_storage": "26",
+    "assess_vcpu": "0",
+    "assess_memory": "0",
+    "assess_storage": "26"
+  },
+  {
+    "kode_tiket": "REQ-KMF-042025-0089256",
+    "nama_tenant": "Kabupaten Jembrana",
+    "perm_vcpu": "6",
+    "perm_memory": "6",
+    "perm_storage": "0",
+    "assess_vcpu": "5",
+    "assess_memory": "6",
+    "assess_storage": "0"
+  },
+  {
+    "kode_tiket": "REQ-KMF-042025-0089298",
+    "nama_tenant": "Kabupaten Nias Utara",
+    "perm_vcpu": "40",
+    "perm_memory": "80",
+    "perm_storage": "12500",
+    "assess_vcpu": "16",
+    "assess_memory": "16",
+    "assess_storage": "450"
+  },
+  {
+    "kode_tiket": "REQ-KMF-042025-0089306",
+    "nama_tenant": "Provinsi Riau",
+    "perm_vcpu": "8",
+    "perm_memory": "8",
+    "perm_storage": "0",
+    "assess_vcpu": "2",
+    "assess_memory": "0",
+    "assess_storage": "0"
+  },
+  {
+    "kode_tiket": "REQ-KMF-022025-0088976",
+    "nama_tenant": "Badan Pembinaan Ideologi Pancasila",
+    "perm_vcpu": "24",
+    "perm_memory": "30",
+    "perm_storage": "3150",
+    "assess_vcpu": "12",
+    "assess_memory": "10",
+    "assess_storage": "10"
+  },
+  {
+    "kode_tiket": "REQ-KMF-022025-0088980",
+    "nama_tenant": "Kementerian Komunikasi dan Digital",
+    "perm_vcpu": "20",
+    "perm_memory": "52",
+    "perm_storage": "1524",
+    "assess_vcpu": "20",
+    "assess_memory": "52",
+    "assess_storage": "1524"
+  },
+  {
+    "kode_tiket": "REQ-KMF-042025-0089426",
+    "nama_tenant": "Kabupaten Bogor",
+    "perm_vcpu": "56",
+    "perm_memory": "72",
+    "perm_storage": "2500",
+    "assess_vcpu": "36",
+    "assess_memory": "80",
+    "assess_storage": "2500"
+  },
+  {
+    "kode_tiket": "REQ-KMF-042025-0089429",
+    "nama_tenant": "Kabupaten Buton",
+    "perm_vcpu": "8",
+    "perm_memory": "8",
+    "perm_storage": "320",
+    "assess_vcpu": "4",
+    "assess_memory": "8",
+    "assess_storage": "320"
+  },
+  {
+    "kode_tiket": "REQ-KMF-042025-0089432",
+    "nama_tenant": "Kementerian Perdagangan",
+    "perm_vcpu": "10",
+    "perm_memory": "32",
+    "perm_storage": "1000",
+    "assess_vcpu": "0",
+    "assess_memory": "16",
+    "assess_storage": "1032"
+  },
+  {
+    "kode_tiket": "REQ-KMF-042025-0089433",
+    "nama_tenant": "Ombudsman Republik Indonesia",
+    "perm_vcpu": "8",
+    "perm_memory": "0",
+    "perm_storage": "0",
+    "assess_vcpu": "8",
+    "assess_memory": "0",
+    "assess_storage": "0"
+  },
+  {
+    "kode_tiket": "REQ-KMF-052025-0089439",
+    "nama_tenant": "Kementerian Agama",
+    "perm_vcpu": "1024",
+    "perm_memory": "1024",
+    "perm_storage": "2000000",
+    "assess_vcpu": "176",
+    "assess_memory": "352",
+    "assess_storage": "23024"
+  },
+  {
+    "kode_tiket": "REQ-KMF-052025-0089477",
+    "nama_tenant": "Kabupaten Wonosobo",
+    "perm_vcpu": "60",
+    "perm_memory": "96",
+    "perm_storage": "2000",
+    "assess_vcpu": "32",
+    "assess_memory": "80",
+    "assess_storage": "2000"
+  },
+  {
+    "kode_tiket": "REQ-KMF-052025-0089478",
+    "nama_tenant": "Kota Bandung",
+    "perm_vcpu": "0",
+    "perm_memory": "4",
+    "perm_storage": "50",
+    "assess_vcpu": "0",
+    "assess_memory": "4",
+    "assess_storage": "50"
+  },
+  {
+    "kode_tiket": "REQ-KMF-052025-0089482",
+    "nama_tenant": "Provinsi Jawa Timur",
+    "perm_vcpu": "0",
+    "perm_memory": "0",
+    "perm_storage": "2000",
+    "assess_vcpu": "0",
+    "assess_memory": "0",
+    "assess_storage": "1000"
+  },
+  {
+    "kode_tiket": "REQ-KMF-052025-0089483",
+    "nama_tenant": "Badan Gizi Nasional",
+    "perm_vcpu": "48",
+    "perm_memory": "128",
+    "perm_storage": "2600",
+    "assess_vcpu": "0",
+    "assess_memory": "0",
+    "assess_storage": "0"
+  },
+  {
+    "kode_tiket": "REQ-KMF-052025-0089484",
+    "nama_tenant": "Badan Pemeriksa Keuangan",
+    "perm_vcpu": "56",
+    "perm_memory": "192",
+    "perm_storage": "6000",
+    "assess_vcpu": "16",
+    "assess_memory": "32",
+    "assess_storage": "6000"
+  },
+  {
+    "kode_tiket": "REQ-KMF-052025-0089530",
+    "nama_tenant": "Badan Pembinaan Ideologi Pancasila",
+    "perm_vcpu": "24",
+    "perm_memory": "32",
+    "perm_storage": "3000",
+    "assess_vcpu": "4",
+    "assess_memory": "8",
+    "assess_storage": "1500"
+  },
+  {
+    "kode_tiket": "REQ-KMF-042025-0089314",
+    "nama_tenant": "Kabupaten Gresik",
+    "perm_vcpu": "165",
+    "perm_memory": "130",
+    "perm_storage": "0",
+    "assess_vcpu": "0",
+    "assess_memory": "0",
+    "assess_storage": "0"
+  },
+  {
+    "kode_tiket": "REQ-KMF-042025-0089324",
+    "nama_tenant": "Kementerian Komunikasi dan Digital",
+    "perm_vcpu": "4",
+    "perm_memory": "4",
+    "perm_storage": "512",
+    "assess_vcpu": "4",
+    "assess_memory": "4",
+    "assess_storage": "512"
+  },
+  {
+    "kode_tiket": "REQ-KMF-042025-0089342",
+    "nama_tenant": "Kabupaten Purbalingga",
+    "perm_vcpu": "12",
+    "perm_memory": "20",
+    "perm_storage": "500",
+    "assess_vcpu": "12",
+    "assess_memory": "20",
+    "assess_storage": "500"
+  },
+  {
+    "kode_tiket": "REQ-KMF-042025-0089368",
+    "nama_tenant": "Kementerian Komunikasi dan Digital",
+    "perm_vcpu": "8",
+    "perm_memory": "16",
+    "perm_storage": "16",
+    "assess_vcpu": "8",
+    "assess_memory": "16",
+    "assess_storage": "16"
+  },
+  {
+    "kode_tiket": "REQ-KMF-042025-0089315",
+    "nama_tenant": "Ombudsman Republik Indonesia",
+    "perm_vcpu": "0",
+    "perm_memory": "14",
+    "perm_storage": "0",
+    "assess_vcpu": "0",
+    "assess_memory": "14",
+    "assess_storage": "0"
+  },
+  {
+    "kode_tiket": "REQ-KMF-042025-0089288",
+    "nama_tenant": "Kementerian Ketenagakerjaan",
+    "perm_vcpu": "8",
+    "perm_memory": "12",
+    "perm_storage": "12",
+    "assess_vcpu": "8",
+    "assess_memory": "12",
+    "assess_storage": "12"
+  },
+  {
+    "kode_tiket": "REQ-KMF-042025-0089356",
+    "nama_tenant": "Kabupaten Bengkulu Utara",
+    "perm_vcpu": "4",
+    "perm_memory": "8",
+    "perm_storage": "8",
+    "assess_vcpu": "4",
+    "assess_memory": "8",
+    "assess_storage": "8"
+  },
+  {
+    "kode_tiket": "REQ-KMF-042025-0089343",
+    "nama_tenant": "Kabupaten Ketapang",
+    "perm_vcpu": "8",
+    "perm_memory": "8",
+    "perm_storage": "256",
+    "assess_vcpu": "0",
+    "assess_memory": "8",
+    "assess_storage": "8"
+  },
+  {
+    "kode_tiket": "REQ-KMF-042025-0089258",
+    "nama_tenant": "Kementerian Usaha Mikro, Kecil, dan Menengah",
+    "perm_vcpu": "343",
+    "perm_memory": "891",
+    "perm_storage": "0",
+    "assess_vcpu": "343",
+    "assess_memory": "891",
+    "assess_storage": "0"
+  },
+  {
+    "kode_tiket": "REQ-KMF-042025-0089383",
+    "nama_tenant": "Kabupaten Buol",
+    "perm_vcpu": "8",
+    "perm_memory": "14",
+    "perm_storage": "800",
+    "assess_vcpu": "8",
+    "assess_memory": "8",
+    "assess_storage": "300"
+  },
+  {
+    "kode_tiket": "REQ-KMF-042025-0089381",
+    "nama_tenant": "Kabupaten Donggala",
+    "perm_vcpu": "24",
+    "perm_memory": "128",
+    "perm_storage": "8192",
+    "assess_vcpu": "8",
+    "assess_memory": "24",
+    "assess_storage": "1638"
+  },
+  {
+    "kode_tiket": "REQ-KMF-042025-0089378",
+    "nama_tenant": "Lembaga Penyiaran Publik Radio Republik Indonesia",
+    "perm_vcpu": "40",
+    "perm_memory": "60",
+    "perm_storage": "7424",
+    "assess_vcpu": "10",
+    "assess_memory": "16",
+    "assess_storage": "1700"
+  },
+  {
+    "kode_tiket": "REQ-KMF-042025-0089373",
+    "nama_tenant": "BPH Migas",
+    "perm_vcpu": "8",
+    "perm_memory": "16",
+    "perm_storage": "500",
+    "assess_vcpu": "2",
+    "assess_memory": "4",
+    "assess_storage": "100"
+  },
+  {
+    "kode_tiket": "REQ-KMF-042025-0089355",
+    "nama_tenant": "Kementerian Perdagangan",
+    "perm_vcpu": "0",
+    "perm_memory": "128",
+    "perm_storage": "0",
+    "assess_vcpu": "0",
+    "assess_memory": "16",
+    "assess_storage": "0"
+  },
+  {
+    "kode_tiket": "REQ-KMF-042025-0089372",
+    "nama_tenant": "BPH Migas",
+    "perm_vcpu": "20",
+    "perm_memory": "72",
+    "perm_storage": "2200",
+    "assess_vcpu": "10",
+    "assess_memory": "14",
+    "assess_storage": "500"
+  },
+  {
+    "kode_tiket": "REQ-KMF-042025-0089361",
+    "nama_tenant": "Kota Padangsidempuan",
+    "perm_vcpu": "72",
+    "perm_memory": "144",
+    "perm_storage": "14500",
+    "assess_vcpu": "16",
+    "assess_memory": "28",
+    "assess_storage": "2300"
+  },
+  {
+    "kode_tiket": "REQ-KMF-042025-0089354",
+    "nama_tenant": "Kabupaten Gunungkidul",
+    "perm_vcpu": "32",
+    "perm_memory": "64",
+    "perm_storage": "160",
+    "assess_vcpu": "12",
+    "assess_memory": "12",
+    "assess_storage": "160"
+  },
+  {
+    "kode_tiket": "REQ-KMF-042025-0089370",
+    "nama_tenant": "Otorita Ibu Kota Nusantara",
+    "perm_vcpu": "68",
+    "perm_memory": "248",
+    "perm_storage": "36900",
+    "assess_vcpu": "47",
+    "assess_memory": "196",
+    "assess_storage": "20450"
+  },
+  {
+    "kode_tiket": "REQ-KMF-042025-0089419",
+    "nama_tenant": "Badan Pelindungan Pekerja Migran Indonesia",
+    "perm_vcpu": "18",
+    "perm_memory": "42",
+    "perm_storage": "0",
+    "assess_vcpu": "18",
+    "assess_memory": "42",
+    "assess_storage": "0"
+  },
+  {
+    "kode_tiket": "REQ-KMF-042025-0089371",
+    "nama_tenant": "Kementerian Komunikasi dan Digital",
+    "perm_vcpu": "16",
+    "perm_memory": "26",
+    "perm_storage": "800",
+    "assess_vcpu": "16",
+    "assess_memory": "26",
+    "assess_storage": "26"
+  },
+  {
+    "kode_tiket": "REQ-KMF-042025-0089349",
+    "nama_tenant": "Kab Lahat",
+    "perm_vcpu": "28",
+    "perm_memory": "34",
+    "perm_storage": "850",
+    "assess_vcpu": "14",
+    "assess_memory": "28",
+    "assess_storage": "350"
+  },
+  {
+    "kode_tiket": "REQ-KMF-042025-0089374",
+    "nama_tenant": "ANRI",
+    "perm_vcpu": "28",
+    "perm_memory": "56",
+    "perm_storage": "350000",
+    "assess_vcpu": "14",
+    "assess_memory": "28",
+    "assess_storage": "35000"
+  },
+  {
+    "kode_tiket": "REQ-KMF-042025-0089344",
+    "nama_tenant": "Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi",
+    "perm_vcpu": "674",
+    "perm_memory": "1464",
+    "perm_storage": "41940",
+    "assess_vcpu": "175",
+    "assess_memory": "397",
+    "assess_storage": "15121"
+  },
+  {
+    "kode_tiket": "REQ-KMF-042025-0089402",
+    "nama_tenant": "Kementerian Komunikasi dan Digital",
+    "perm_vcpu": "140",
+    "perm_memory": "400",
+    "perm_storage": "800",
+    "assess_vcpu": "28",
+    "assess_memory": "80",
+    "assess_storage": "200"
+  },
+  {
+    "kode_tiket": "REQ-KMF-042025-0089397",
+    "nama_tenant": "Kementerian Komunikasi dan Digital",
+    "perm_vcpu": "48",
+    "perm_memory": "192",
+    "perm_storage": "1400",
+    "assess_vcpu": "14",
+    "assess_memory": "36",
+    "assess_storage": "400"
+  },
+  {
+    "kode_tiket": "REQ-KMF-052025-0089455",
+    "nama_tenant": "Kementerian Pekerjaan Umum dan Perumahan Rakyat",
+    "perm_vcpu": "16",
+    "perm_memory": "8",
+    "perm_storage": "1000",
+    "assess_vcpu": "0",
+    "assess_memory": "0",
+    "assess_storage": "0"
+  },
+  {
+    "kode_tiket": "REQ-KMF-052025-0089453",
+    "nama_tenant": "Kementerian Komunikasi dan Digital",
+    "perm_vcpu": "0",
+    "perm_memory": "0",
+    "perm_storage": "1000",
+    "assess_vcpu": "0",
+    "assess_memory": "0",
+    "assess_storage": "500"
+  },
+  {
+    "kode_tiket": "REQ-KMF-052025-0089470",
+    "nama_tenant": "Kabupaten Tabalong",
+    "perm_vcpu": "0",
+    "perm_memory": "0",
+    "perm_storage": "4",
+    "assess_vcpu": "0",
+    "assess_memory": "0",
+    "assess_storage": "4"
+  },
+  {
+    "kode_tiket": "REQ-KMF-052025-0089467",
+    "nama_tenant": "Kabupaten Lombok Barat",
+    "perm_vcpu": "24",
+    "perm_memory": "64",
+    "perm_storage": "2500",
+    "assess_vcpu": "2",
+    "assess_memory": "6",
+    "assess_storage": "10"
+  },
+  {
+    "kode_tiket": "REQ-KMF-052025-0089452",
+    "nama_tenant": "Badan Pelindungan Pekerja Migran Indonesia",
+    "perm_vcpu": "416",
+    "perm_memory": "896",
+    "perm_storage": "0",
+    "assess_vcpu": "125",
+    "assess_memory": "269",
+    "assess_storage": "0"
+  },
+  {
+    "kode_tiket": "REQ-KMF-042025-0089437",
+    "nama_tenant": "Kabupaten Banjar",
+    "perm_vcpu": "4",
+    "perm_memory": "8",
+    "perm_storage": "500",
+    "assess_vcpu": "4",
+    "assess_memory": "8",
+    "assess_storage": "0"
+  },
+  {
+    "kode_tiket": "REQ-KMF-052025-0089466",
+    "nama_tenant": "Kabupaten Tabanan",
+    "perm_vcpu": "8",
+    "perm_memory": "16",
+    "perm_storage": "500",
+    "assess_vcpu": "2",
+    "assess_memory": "4",
+    "assess_storage": "200"
+  },
+  {
+    "kode_tiket": "REQ-KMF-052025-0089476",
+    "nama_tenant": "Kabupaten Tabanan",
+    "perm_vcpu": "4",
+    "perm_memory": "8",
+    "perm_storage": "500",
+    "assess_vcpu": "2",
+    "assess_memory": "4",
+    "assess_storage": "200"
+  },
+  {
+    "kode_tiket": "REQ-KMF-052025-0089471",
+    "nama_tenant": "Kota Pangkalpinang",
+    "perm_vcpu": "32",
+    "perm_memory": "128",
+    "perm_storage": "1024",
+    "assess_vcpu": "4",
+    "assess_memory": "8",
+    "assess_storage": "200"
+  },
+  {
+    "kode_tiket": "REQ-KMF-052025-0089509",
+    "nama_tenant": "Kementerian Komunikasi dan Digital",
+    "perm_vcpu": "20",
+    "perm_memory": "256",
+    "perm_storage": "3000",
+    "assess_vcpu": "8",
+    "assess_memory": "16",
+    "assess_storage": "1000"
+  },
+  {
+    "kode_tiket": "REQ-KMF-052025-0089505",
+    "nama_tenant": "Kementerian Komunikasi dan Digital",
+    "perm_vcpu": "4",
+    "perm_memory": "8",
+    "perm_storage": "21504",
+    "assess_vcpu": "4",
+    "assess_memory": "8",
+    "assess_storage": "6000"
+  },
+  {
+    "kode_tiket": "REQ-KMF-052025-0089513",
+    "nama_tenant": "Kabupaten Sekadau",
+    "perm_vcpu": "16",
+    "perm_memory": "16",
+    "perm_storage": "810",
+    "assess_vcpu": "4",
+    "assess_memory": "8",
+    "assess_storage": "500"
+  },
+  {
+    "kode_tiket": "REQ-KMF-052025-0089496",
+    "nama_tenant": "Provinsi Bengkulu",
+    "perm_vcpu": "4",
+    "perm_memory": "8",
+    "perm_storage": "500",
+    "assess_vcpu": "2",
+    "assess_memory": "4",
+    "assess_storage": "200"
+  },
+  {
+    "kode_tiket": "REQ-KMF-052025-0089495",
+    "nama_tenant": "Provinsi Bengkulu",
+    "perm_vcpu": "4",
+    "perm_memory": "8",
+    "perm_storage": "500",
+    "assess_vcpu": "2",
+    "assess_memory": "4",
+    "assess_storage": "200"
+  },
+  {
+    "kode_tiket": "REQ-KMF-052025-0089497",
+    "nama_tenant": "Provinsi Bengkulu",
+    "perm_vcpu": "8",
+    "perm_memory": "16",
+    "perm_storage": "1000",
+    "assess_vcpu": "4",
+    "assess_memory": "8",
+    "assess_storage": "400"
+  },
+  {
+    "kode_tiket": "REQ-KMF-052025-0089498",
+    "nama_tenant": "Provinsi Bengkulu",
+    "perm_vcpu": "20",
+    "perm_memory": "40",
+    "perm_storage": "1400",
+    "assess_vcpu": "10",
+    "assess_memory": "20",
+    "assess_storage": "600"
+  },
+  {
+    "kode_tiket": "REQ-KMF-052025-0089454",
+    "nama_tenant": "Kabupaten Padang Pariaman",
+    "perm_vcpu": "64",
+    "perm_memory": "64",
+    "perm_storage": "6000",
+    "assess_vcpu": "12",
+    "assess_memory": "12",
+    "assess_storage": "2000"
+  },
+  {
+    "kode_tiket": "REQ-KMF-052025-0089568",
+    "nama_tenant": "Kabupaten Buleleng",
+    "perm_vcpu": "2",
+    "perm_memory": "2",
+    "perm_storage": "0",
+    "assess_vcpu": "2",
+    "assess_memory": "2",
+    "assess_storage": "0"
+  },
+  {
+    "kode_tiket": "REQ-KMF-052025-0089571",
+    "nama_tenant": "Kabupaten Solok Selatan",
+    "perm_vcpu": "8",
+    "perm_memory": "4",
+    "perm_storage": "8",
+    "assess_vcpu": "4",
+    "assess_memory": "4",
+    "assess_storage": "0"
+  },
+  {
+    "kode_tiket": "REQ-KMF-052025-0089533",
+    "nama_tenant": "Kabupaten Sekadau",
+    "perm_vcpu": "16",
+    "perm_memory": "20",
+    "perm_storage": "1000",
+    "assess_vcpu": "0",
+    "assess_memory": "0",
+    "assess_storage": "300"
+  },
+  {
+    "kode_tiket": "REQ-KMF-052025-0089566",
+    "nama_tenant": "Provinsi Banten",
+    "perm_vcpu": "4",
+    "perm_memory": "8",
+    "perm_storage": "0",
+    "assess_vcpu": "4",
+    "assess_memory": "8",
+    "assess_storage": "0"
+  },
+  {
+    "kode_tiket": "REQ-KMF-052025-0089561",
+    "nama_tenant": "Kabupaten Kubu Raya",
+    "perm_vcpu": "4",
+    "perm_memory": "8",
+    "perm_storage": "0",
+    "assess_vcpu": "4",
+    "assess_memory": "8",
+    "assess_storage": "0"
+  },
+  {
+    "kode_tiket": "REQ-KMF-052025-0089581",
+    "nama_tenant": "Kementerian Kelautan dan Perikanan",
+    "perm_vcpu": "16",
+    "perm_memory": "32",
+    "perm_storage": "0",
+    "assess_vcpu": "16",
+    "assess_memory": "32",
+    "assess_storage": "0"
+  },
+  {
+    "kode_tiket": "REQ-KMF-052025-0089578",
+    "nama_tenant": "Kota Banjarbaru",
+    "perm_vcpu": "26",
+    "perm_memory": "140",
+    "perm_storage": "7000",
+    "assess_vcpu": "8",
+    "assess_memory": "16",
+    "assess_storage": "1600"
+  },
+  {
+    "kode_tiket": "REQ-KMF-052025-0089569",
+    "nama_tenant": "Kabupaten Kupang",
+    "perm_vcpu": "16",
+    "perm_memory": "128",
+    "perm_storage": "2000",
+    "assess_vcpu": "8",
+    "assess_memory": "16",
+    "assess_storage": "100"
+  },
+  {
+    "kode_tiket": "REQ-KMF-052025-0089539",
+    "nama_tenant": "Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi",
+    "perm_vcpu": "64",
+    "perm_memory": "96",
+    "perm_storage": "3040",
+    "assess_vcpu": "16",
+    "assess_memory": "22",
+    "assess_storage": "700"
+  },
+  {
+    "kode_tiket": "REQ-KMF-052025-0089534",
+    "nama_tenant": "Kabupaten Kotawaringin Timur",
+    "perm_vcpu": "8",
+    "perm_memory": "16",
+    "perm_storage": "250",
+    "assess_vcpu": "2",
+    "assess_memory": "4",
+    "assess_storage": "200"
+  },
+  {
+    "kode_tiket": "REQ-KMF-052025-0089658",
+    "nama_tenant": "Kabupaten Probolinggo",
+    "perm_vcpu": "136",
+    "perm_memory": "396",
+    "perm_storage": "10600",
+    "assess_vcpu": "0",
+    "assess_memory": "0",
+    "assess_storage": "0"
+  },
+  {
+    "kode_tiket": "REQ-KMF-052025-0089536",
+    "nama_tenant": "Badan Meteorologi Klimatologi Dan Geofisika",
+    "perm_vcpu": "75",
+    "perm_memory": "0",
+    "perm_storage": "0",
+    "assess_vcpu": "4",
+    "assess_memory": "0",
+    "assess_storage": "0"
+  },
+  {
+    "kode_tiket": "REQ-KMF-052025-0089545",
+    "nama_tenant": "Badan Pengawas Pemilu",
+    "perm_vcpu": "4",
+    "perm_memory": "8",
+    "perm_storage": "0",
+    "assess_vcpu": "0",
+    "assess_memory": "0",
+    "assess_storage": "0"
+  },
+  {
+    "kode_tiket": "REQ-KMF-052025-0089575",
+    "nama_tenant": "Kementerian Kesehatan",
+    "perm_vcpu": "8",
+    "perm_memory": "16",
+    "perm_storage": "0",
+    "assess_vcpu": "0",
+    "assess_memory": "0",
+    "assess_storage": "0"
+  },
+  {
+    "kode_tiket": "REQ-KMF-052025-0089601",
+    "nama_tenant": "Kabupaten Bengkulu Utara",
+    "perm_vcpu": "4",
+    "perm_memory": "8",
+    "perm_storage": "0",
+    "assess_vcpu": "4",
+    "assess_memory": "8",
+    "assess_storage": "0"
+  },
+  {
+    "kode_tiket": "REQ-KMF-052025-0089595",
+    "nama_tenant": "Majelis Permusyawaratan Rakyat",
+    "perm_vcpu": "6",
+    "perm_memory": "10",
+    "perm_storage": "10",
+    "assess_vcpu": "4",
+    "assess_memory": "8",
+    "assess_storage": "8"
+  },
+  {
+    "kode_tiket": "REQ-KMF-052025-0089602",
+    "nama_tenant": "Kementerian Perhubungan",
+    "perm_vcpu": "304",
+    "perm_memory": "564",
+    "perm_storage": "21250",
+    "assess_vcpu": "0",
+    "assess_memory": "0",
+    "assess_storage": "0"
+  },
+  {
+    "kode_tiket": "REQ-KMF-052025-0089626",
+    "nama_tenant": "Kabupaten Sekadau",
+    "perm_vcpu": "0",
+    "perm_memory": "0",
+    "perm_storage": "8",
+    "assess_vcpu": "0",
+    "assess_memory": "0",
+    "assess_storage": "8"
+  },
+  {
+    "kode_tiket": "REQ-KMF-052025-0089658",
+    "nama_tenant": "Kabupaten Probolinggo",
+    "perm_vcpu": "200",
+    "perm_memory": "500",
+    "perm_storage": "15000",
+    "assess_vcpu": "8",
+    "assess_memory": "16",
+    "assess_storage": "700"
+  },
+  {
+    "kode_tiket": "REQ-KMF-052025-0089623",
+    "nama_tenant": "Provinsi Bali",
+    "perm_vcpu": "0",
+    "perm_memory": "0",
+    "perm_storage": "0",
+    "assess_vcpu": "0",
+    "assess_memory": "0",
+    "assess_storage": "0"
+  },
+  {
+    "kode_tiket": "REQ-KMF-052025-0089681",
+    "nama_tenant": "Otorita Ibu Kota Nusantara",
+    "perm_vcpu": "90",
+    "perm_memory": "310",
+    "perm_storage": "35000",
+    "assess_vcpu": "20",
+    "assess_memory": "120",
+    "assess_storage": "18874"
+  },
+  {
+    "kode_tiket": "REQ-KMF-052025-0089684",
+    "nama_tenant": "Pemkab Bengkulu Utara",
+    "perm_vcpu": "0",
+    "perm_memory": "0",
+    "perm_storage": "50",
+    "assess_vcpu": "0",
+    "assess_memory": "0",
+    "assess_storage": "50"
+  },
+  {
+    "kode_tiket": "REQ-KMF-052025-0089692",
+    "nama_tenant": "Kementerian Agama",
+    "perm_vcpu": "0",
+    "perm_memory": "0",
+    "perm_storage": "32",
+    "assess_vcpu": "0",
+    "assess_memory": "0",
+    "assess_storage": "32"
+  },
+  {
+    "kode_tiket": "REQ-KMF-052025-0089632",
+    "nama_tenant": "Badan Pengawas Obat Dan Makanan",
+    "perm_vcpu": "32",
+    "perm_memory": "64",
+    "perm_storage": "3000",
+    "assess_vcpu": "16",
+    "assess_memory": "32",
+    "assess_storage": "700"
+  },
+  {
+    "kode_tiket": "REQ-KMF-052025-0089662",
+    "nama_tenant": "Kota Parepare",
+    "perm_vcpu": "4",
+    "perm_memory": "8",
+    "perm_storage": "500",
+    "assess_vcpu": "2",
+    "assess_memory": "4",
+    "assess_storage": "300"
+  },
+  {
+    "kode_tiket": "REQ-KMF-052025-0089658",
+    "nama_tenant": "Kabupaten Probolinggo",
+    "perm_vcpu": "200",
+    "perm_memory": "500",
+    "perm_storage": "1500",
+    "assess_vcpu": "8",
+    "assess_memory": "16",
+    "assess_storage": "700"
+  },
+  {
+    "kode_tiket": "REQ-KMF-052025-0089682",
+    "nama_tenant": "Kabupaten Ogan Komering Ulu",
+    "perm_vcpu": "40",
+    "perm_memory": "80",
+    "perm_storage": "12500",
+    "assess_vcpu": "6",
+    "assess_memory": "6",
+    "assess_storage": "300"
+  },
+  {
+    "kode_tiket": "REQ-KMF-052025-0089693",
+    "nama_tenant": "Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi",
+    "perm_vcpu": "38",
+    "perm_memory": "60",
+    "perm_storage": "4296",
+    "assess_vcpu": "30",
+    "assess_memory": "40",
+    "assess_storage": "2000"
+  },
+  {
+    "kode_tiket": "REQ-KMF-062025-0089796",
+    "nama_tenant": "Kementerian Pertanian",
+    "perm_vcpu": "56",
+    "perm_memory": "32",
+    "perm_storage": "382",
+    "assess_vcpu": "12",
+    "assess_memory": "8",
+    "assess_storage": "100"
+  },
+  {
+    "kode_tiket": "REQ-KMF-052025-0089623",
+    "nama_tenant": "Provinsi Bali",
+    "perm_vcpu": "0",
+    "perm_memory": "0",
+    "perm_storage": "1000",
+    "assess_vcpu": "0",
+    "assess_memory": "0",
+    "assess_storage": "300"
+  },
+  {
+    "kode_tiket": "REQ-KMF-052025-0089724",
+    "nama_tenant": "Kabupaten Probolinggo",
+    "perm_vcpu": "200",
+    "perm_memory": "500",
+    "perm_storage": "15000",
+    "assess_vcpu": "10",
+    "assess_memory": "20",
+    "assess_storage": "400"
+  },
+  {
+    "kode_tiket": "REQ-KMF-062025-0089780",
+    "nama_tenant": "Kabupaten Wonosobo",
+    "perm_vcpu": "4",
+    "perm_memory": "8",
+    "perm_storage": "300",
+    "assess_vcpu": "2",
+    "assess_memory": "4",
+    "assess_storage": "100"
+  },
+  {
+    "kode_tiket": "REQ-KMF-052025-0089704",
+    "nama_tenant": "Kabupaten Tapanuli Selatan",
+    "perm_vcpu": "40",
+    "perm_memory": "80",
+    "perm_storage": "12500",
+    "assess_vcpu": "10",
+    "assess_memory": "10",
+    "assess_storage": "260"
+  },
+  {
+    "kode_tiket": "REQ-KMF-062025-0089792",
+    "nama_tenant": "Provinsi Riau",
+    "perm_vcpu": "2",
+    "perm_memory": "4",
+    "perm_storage": "6000",
+    "assess_vcpu": "2",
+    "assess_memory": "4",
+    "assess_storage": "3000"
+  },
+  {
+    "kode_tiket": "REQ-KMF-062025-0089868",
+    "nama_tenant": "Kota Cimahi",
+    "perm_vcpu": "6",
+    "perm_memory": "32",
+    "perm_storage": "12",
+    "assess_vcpu": "6",
+    "assess_memory": "12",
+    "assess_storage": "12"
+  },
+  {
+    "kode_tiket": "REQ-KMF-052025-0089680",
+    "nama_tenant": "Arsip Nasional Republik Indonesia - SRIKANDI",
+    "perm_vcpu": "208",
+    "perm_memory": "356",
+    "perm_storage": "45000",
+    "assess_vcpu": "28",
+    "assess_memory": "28",
+    "assess_storage": "1800"
+  },
+  {
+    "kode_tiket": "REQ-KMF-062025-0089861",
+    "nama_tenant": "Kabupaten Purbalingga",
+    "perm_vcpu": "0",
+    "perm_memory": "0",
+    "perm_storage": "120",
+    "assess_vcpu": "0",
+    "assess_memory": "0",
+    "assess_storage": "120"
+  },
+  {
+    "kode_tiket": "REQ-KMF-062025-0089848",
+    "nama_tenant": "Kabupaten Bengkulu Utara",
+    "perm_vcpu": "4",
+    "perm_memory": "24",
+    "perm_storage": "100",
+    "assess_vcpu": "4",
+    "assess_memory": "8",
+    "assess_storage": "100"
+  },
+  {
+    "kode_tiket": "REQ-KMF-062025-0089763",
+    "nama_tenant": "Provinsi Bengkulu",
+    "perm_vcpu": "36",
+    "perm_memory": "72",
+    "perm_storage": "2200",
+    "assess_vcpu": "20",
+    "assess_memory": "20",
+    "assess_storage": "590"
+  },
+  {
+    "kode_tiket": "REQ-KMF-062025-0089881",
+    "nama_tenant": "Kementerian�Ekonomi�Kreatif",
+    "perm_vcpu": "12",
+    "perm_memory": "48",
+    "perm_storage": "32",
+    "assess_vcpu": "12",
+    "assess_memory": "32",
+    "assess_storage": "32"
+  },
+  {
+    "kode_tiket": "REQ-KMF-062025-0089760",
+    "nama_tenant": "Provinsi Bengkulu",
+    "perm_vcpu": "4",
+    "perm_memory": "8",
+    "perm_storage": "500",
+    "assess_vcpu": "4",
+    "assess_memory": "4",
+    "assess_storage": "250"
+  },
+  {
+    "kode_tiket": "REQ-KMF-062025-0089762",
+    "nama_tenant": "Provinsi Bengkulu",
+    "perm_vcpu": "12",
+    "perm_memory": "40",
+    "perm_storage": "300",
+    "assess_vcpu": "8",
+    "assess_memory": "8",
+    "assess_storage": "200"
+  },
+  {
+    "kode_tiket": "REQ-KMF-062025-0089926",
+    "nama_tenant": "Pemkab Luwu",
+    "perm_vcpu": "6",
+    "perm_memory": "10",
+    "perm_storage": "90",
+    "assess_vcpu": "6",
+    "assess_memory": "10",
+    "assess_storage": "90"
+  },
+  {
+    "kode_tiket": "REQ-KMF-062025-0089935",
+    "nama_tenant": "Badan Pengawas Obat Dan Makanan",
+    "perm_vcpu": "32",
+    "perm_memory": "64",
+    "perm_storage": "1000",
+    "assess_vcpu": "8",
+    "assess_memory": "32",
+    "assess_storage": "500"
+  },
+  {
+    "kode_tiket": "REQ-KMF-052025-0089602",
+    "nama_tenant": "Kementerian Perhubungan",
+    "perm_vcpu": "304",
+    "perm_memory": "564",
+    "perm_storage": "21250",
+    "assess_vcpu": "128",
+    "assess_memory": "128",
+    "assess_storage": "8810"
+  },
+  {
+    "kode_tiket": "REQ-KMF-062025-0089913",
+    "nama_tenant": "Kementerian Komunikasi dan Informatika",
+    "perm_vcpu": "4",
+    "perm_memory": "12",
+    "perm_storage": "100",
+    "assess_vcpu": "2",
+    "assess_memory": "8",
+    "assess_storage": "80"
+  },
+  {
+    "kode_tiket": "REQ-KMF-062025-0089970",
+    "nama_tenant": "Kementerian Komunikasi dan Informatika",
+    "perm_vcpu": "32",
+    "perm_memory": "48",
+    "perm_storage": "906",
+    "assess_vcpu": "14",
+    "assess_memory": "40",
+    "assess_storage": "606"
+  },
+  {
+    "kode_tiket": "REQ-KMF-062025-0089867",
+    "nama_tenant": "Kementerian Komunikasi dan Informatika",
+    "perm_vcpu": "4",
+    "perm_memory": "8",
+    "perm_storage": "55",
+    "assess_vcpu": "4",
+    "assess_memory": "8",
+    "assess_storage": "50"
+  },
+  {
+    "kode_tiket": "REQ-KMF-072025-0090040",
+    "nama_tenant": "Provinsi Riau",
+    "perm_vcpu": "10",
+    "perm_memory": "0",
+    "perm_storage": "0",
+    "assess_vcpu": "10",
+    "assess_memory": "0",
+    "assess_storage": "0"
+  },
+  {
+    "kode_tiket": "REQ-KMF-072025-0090406",
+    "nama_tenant": "Kabupaten Ogan Komering Ulu Timur",
+    "perm_vcpu": "4",
+    "perm_memory": "0",
+    "perm_storage": "0",
+    "assess_vcpu": "4",
+    "assess_memory": "0",
+    "assess_storage": "0"
+  },
+  {
+    "kode_tiket": "REQ-KMF-082025-0090476",
+    "nama_tenant": "Kementerian Komunikasi dan Informatika",
+    "perm_vcpu": "0",
+    "perm_memory": "0",
+    "perm_storage": "100",
+    "assess_vcpu": "0",
+    "assess_memory": "0",
+    "assess_storage": "100"
+  },
+  {
+    "kode_tiket": "REQ-KMF-072025-0090097",
+    "nama_tenant": "Kementerian Komunikasi dan Informatika",
+    "perm_vcpu": "36",
+    "perm_memory": "63",
+    "perm_storage": "0",
+    "assess_vcpu": "0",
+    "assess_memory": "0",
+    "assess_storage": "0"
+  },
+  {
+    "kode_tiket": "REQ-KMF-082025-0090668",
+    "nama_tenant": "Kejaksaan Agung",
+    "perm_vcpu": "16",
+    "perm_memory": "32",
+    "perm_storage": "560",
+    "assess_vcpu": "0",
+    "assess_memory": "0",
+    "assess_storage": "400"
+  },
+  {
+    "kode_tiket": "REQ-KMF-082025-0090651",
+    "nama_tenant": "Kementerian Komunikasi dan Informatika",
+    "perm_vcpu": "4",
+    "perm_memory": "16",
+    "perm_storage": "500",
+    "assess_vcpu": "4",
+    "assess_memory": "8",
+    "assess_storage": "500"
+  },
+  {
+    "kode_tiket": "REQ-KMF-072025-0090030",
+    "nama_tenant": "Badan Pangan Nasional",
+    "perm_vcpu": "14",
+    "perm_memory": "32",
+    "perm_storage": "1250",
+    "assess_vcpu": "7",
+    "assess_memory": "12",
+    "assess_storage": "200"
+  },
+  {
+    "kode_tiket": "REQ-KMF-082025-0090674",
+    "nama_tenant": "Kementerian Pendayagunaan Aparatur Negara dan Reformasi Birokrasi",
+    "perm_vcpu": "0",
+    "perm_memory": "0",
+    "perm_storage": "0",
+    "assess_vcpu": "0",
+    "assess_memory": "0",
+    "assess_storage": "10"
+  },
+  {
+    "kode_tiket": "REQ-KMF-092025-0090782",
+    "nama_tenant": "Kementerian Pendayagunaan Aparatur Negara dan Reformasi Birokrasi",
+    "perm_vcpu": "4",
+    "perm_memory": "0",
+    "perm_storage": "0",
+    "assess_vcpu": "4",
+    "assess_memory": "0",
+    "assess_storage": "0"
+  },
+  {
+    "kode_tiket": "REQ-KMF-092025-0090806",
+    "nama_tenant": "Kota Cilegon",
+    "perm_vcpu": "4",
+    "perm_memory": "2",
+    "perm_storage": "66",
+    "assess_vcpu": "4",
+    "assess_memory": "2",
+    "assess_storage": "66"
+  },
+  {
+    "kode_tiket": "REQ-KMF-092025-0090808",
+    "nama_tenant": "Kabupaten Pringsewu",
+    "perm_vcpu": "12",
+    "perm_memory": "14",
+    "perm_storage": "0",
+    "assess_vcpu": "12",
+    "assess_memory": "14",
+    "assess_storage": "0"
+  },
+  {
+    "kode_tiket": "REQ-KMF-092025-0090918",
+    "nama_tenant": "Kementerian Perencanaan Pembangunan Nasional",
+    "perm_vcpu": "10",
+    "perm_memory": "32",
+    "perm_storage": "0",
+    "assess_vcpu": "10",
+    "assess_memory": "32",
+    "assess_storage": "0"
+  }
+]

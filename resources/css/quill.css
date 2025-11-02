@@ -1,0 +1,51 @@
+/* === Light mode === */
+.ql-container {
+  background-color: #fafafa; /* sedikit abu, bukan putih terang */
+  border: 1px solid #9ca3af; /* neutral-400 */
+  border-radius: 0.5rem;
+}
+
+.ql-editor {
+  color: #1f2937; /* neutral-800 */
+  min-height: 200px;
+}
+
+.ql-toolbar {
+  background-color: #f3f4f6; /* neutral-100 */
+  border: 1px solid #9ca3af;
+  border-bottom: none;
+  border-radius: 0.5rem 0.5rem 0 0;
+}
+
+/* === Dark mode === */
+.dark .ql-container {
+  background-color: #18181b; /* neutral-900 */
+  border-color: #52525b; /* neutral-600 */
+}
+
+.dark .ql-editor {
+  color: #e5e7eb; /* neutral-200 */
+}
+
+.dark .ql-toolbar {
+  background-color: #27272a; /* neutral-800 */
+  border-color: #52525b;
+}
+
+/* === Placeholder === */
+.ql-editor.ql-blank::before {
+  color: #9ca3af;
+}
+.dark .ql-editor.ql-blank::before {
+  color: #a1a1aa;
+}
+
+/* === Toolbar button hover === */
+.ql-toolbar button:hover,
+.ql-toolbar button.ql-active {
+  background-color: #e5e7eb; /* neutral-200 */
+}
+.dark .ql-toolbar button:hover,
+.dark .ql-toolbar button.ql-active {
+  background-color: #3f3f46; /* neutral-700 */
+}
