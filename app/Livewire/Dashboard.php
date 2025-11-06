@@ -122,12 +122,18 @@ class Dashboard extends Component
     }
 
     public function render()
-    {
+    {   
+        $data_views = \DB::table('tr_article_views')
+            ->select('id_artikel', \DB::raw('sum(total_view) as total_view'))
+            ->groupBy('id_artikel');
+
         $data['artikel'] = \DB::table('tr_article')
-            ->select('tr_article.*', 'tr_article_views.total_view', 'users.name')
-            ->leftJoin('tr_article_views', 'tr_article.id', 'tr_article_views.id_artikel')
+            ->select('tr_article.*', 'views_total.total_view', 'users.name')
+            ->leftJoinSub($data_views, 'views_total', function($join){
+                $join->on('tr_article.id', 'views_total.id_artikel');
+            })
             ->leftJoin('users', 'tr_article.author', 'users.id')
-            ->orderBy('tr_article_views.total_view', 'desc')
+            ->orderBy('views_total.total_view', 'desc')
             ->where('tr_article.status', 'active')
             ->limit(5)
             ->get();
