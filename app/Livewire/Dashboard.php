@@ -128,6 +128,7 @@ class Dashboard extends Component
             ->leftJoin('tr_article_views', 'tr_article.id', 'tr_article_views.id_artikel')
             ->leftJoin('users', 'tr_article.author', 'users.id')
             ->orderBy('tr_article_views.total_view', 'desc')
+            ->where('tr_article.status', 'active')
             ->limit(5)
             ->get();
         return view('livewire.dashboard', $data);
