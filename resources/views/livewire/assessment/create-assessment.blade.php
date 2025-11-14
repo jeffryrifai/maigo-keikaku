@@ -88,7 +88,7 @@
             Hasil Input
         </flux:heading>
 
-        <p class="text-gray-700 mt-2">
+        <p class="text-neutral-800 dark:text-neutral-100 mt-2">
             Rekomendasi untuk tiket ini adalah: <strong>{{ $recommendation }}</strong>
         </p>
 

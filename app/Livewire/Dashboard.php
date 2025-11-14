@@ -56,9 +56,9 @@ class Dashboard extends Component
             ->whereBetween('created_at', [$this->filter_tgl_mulai.' 00:00:00', $this->filter_tgl_selesai. ' 23:59:59'])
             ->first();
 
-        $this->assess_vcpu += $res_assess->assess_vcpu ?? 0;
-        $this->assess_memory += $res_assess->assess_memory ?? 0;
-        $this->assess_storage += $res_assess->assess_storage ?? 0;
+        $this->assess_vcpu += $res_assess->vcpu ?? 0;
+        $this->assess_memory += $res_assess->memory ?? 0;
+        $this->assess_storage += $res_assess->storage ?? 0;
 
         $res_legacy = \DB::table('tr_assess_resource_legacy')
             ->select(        

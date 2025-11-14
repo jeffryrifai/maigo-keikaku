@@ -32,50 +32,14 @@ class CreateAssessment extends Component
         if($token)
         {
             $this->id_edit = decrypt(urldecode($token));
-            $assess_edit = \DB::table('tr_assess')
-                ->where('id', $this->id_edit)
-                ->first();
-
-            $this->kode_tiket = $assess_edit->kode_tiket;
-            $this->selected_category = $assess_edit->id_category;
-            $this->selected_tenant = $assess_edit->id_tenant;
-            $this->keterangan = $assess_edit->keterangan;
-            //resource
-            if($assess_edit->id_category == 1){
-                $this->isResEdit = true;
-                $res_edit = \DB::table('tr_assess_resource')
-                    ->where('id_assess', $this->id_edit)
-                    ->where('tr_assess_resource.status', 'open')
-                    ->get();
-
-                foreach($res_edit as $row)
-                {
-                    $this->form_data[$row->id_criteria]['value']['vcpu'] = $row->vcpu;
-                    $this->form_data[$row->id_criteria]['value']['memory'] = $row->memory;
-                    $this->form_data[$row->id_criteria]['value']['storage'] = $row->storage;
-                }
-            }
-
-            //other assess
-            $scr_edit = \DB::table('tr_assess_score')
-                ->select('tr_assess_score.*', 'tm_assess_criteria.tipe_kriteria')
-                ->leftjoin('tm_assess_criteria', 'tr_assess_score.id_criteria', 'tm_assess_criteria.id')
-                ->where('id_assess', $this->id_edit)
-                ->where('tr_assess_score.status', 'open')
-                ->get();
             
-            foreach($scr_edit as $row)
-            {
-                //checklist
-                if($row->tipe_kriteria == "checklist"){
-                    $this->form_data[$row->id_criteria]['value'][$row->id_criteria_sub] = $row->score == 1 ? true : false;
-                }else{
-                    $this->form_data[$row->id_criteria]['value'] = $row->score;
-                }
-            }
         }
     }
 
+    public function updatedSelectedCategory($value)
+    {
+        $this->form_data = [];
+    }
 
     public function calculateScore()
     {
@@ -258,10 +222,58 @@ class CreateAssessment extends Component
         return redirect()->route('assessment.index');
     }
 
+    public function setEdit()
+    {
+        $assess_edit = \DB::table('tr_assess')
+            ->where('id', $this->id_edit)
+            ->first();
+
+        $this->kode_tiket = $assess_edit->kode_tiket;
+        $this->selected_category = $assess_edit->id_category;
+        $this->selected_tenant = $assess_edit->id_tenant;
+        $this->keterangan = $assess_edit->keterangan;
+        //resource
+        if($assess_edit->id_category == 1){
+            $this->isResEdit = true;
+            $res_edit = \DB::table('tr_assess_resource')
+                ->where('id_assess', $this->id_edit)
+                ->where('tr_assess_resource.status', 'open')
+                ->get();
+
+            foreach($res_edit as $row)
+            {
+                $this->form_data[$row->id_criteria]['value']['vcpu'] = $row->vcpu;
+                $this->form_data[$row->id_criteria]['value']['memory'] = $row->memory;
+                $this->form_data[$row->id_criteria]['value']['storage'] = $row->storage;
+            }
+        }
+
+        //other assess
+        $scr_edit = \DB::table('tr_assess_score')
+            ->select('tr_assess_score.*', 'tm_assess_criteria.tipe_kriteria')
+            ->leftjoin('tm_assess_criteria', 'tr_assess_score.id_criteria', 'tm_assess_criteria.id')
+            ->where('id_assess', $this->id_edit)
+            ->where('tr_assess_score.status', 'open')
+            ->get();
+        
+        foreach($scr_edit as $row)
+        {
+            //checklist
+            if($row->tipe_kriteria == "checklist"){
+                $this->form_data[$row->id_criteria]['value'][$row->id_criteria_sub] = $row->score == 1 ? true : false;
+            }else{
+                $this->form_data[$row->id_criteria]['value'] = $row->score;
+            }
+        }
+    }
+
     public function render()
     {
+        if($this->id_edit){
+            $this->setEdit();
+        }
         if($this->selected_category != ''){
-        
+    
             $current_selected_category = \DB::table('tm_assess_category')->where('id', $this->selected_category)->first();
 
             $this->form_assess = \DB::table('tm_assess_criteria')
@@ -281,15 +293,14 @@ class CreateAssessment extends Component
                 if($row->tipe_kriteria == "checklist")
                 {
                     $data_sub_kriteria = \DB::table('tm_assess_criteria_sub')->where('id_criteria', $row->id)->get();
-                    foreach($data_sub_kriteria as $sub_k)
-                    {
-                        $this->form_data[$row->id]['value'][$sub_k->id] = false;
+                    if(!$this->id_edit){
+                        foreach($data_sub_kriteria as $sub_k)
+                        {
+                            $this->form_data[$row->id]['value'][$sub_k->id] = false;
+                        }
                     }
                 }
             }
-        }else{
-            $this->form_assess = null;
-            $this->form_data = [];
         }
         return view('livewire.assessment.create-assessment');
     }
