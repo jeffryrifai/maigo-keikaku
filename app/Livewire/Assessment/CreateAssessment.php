@@ -231,7 +231,9 @@ class CreateAssessment extends Component
             ->first();
 
         $this->kode_tiket = $assess_edit->kode_tiket;
-        $this->selected_category = $assess_edit->id_category;
+        if($this->selected_category == ''){
+            $this->selected_category = $assess_edit->id_category;
+        }
         $this->selected_tenant = $assess_edit->id_tenant;
         $this->keterangan = $assess_edit->keterangan;
         //resource
