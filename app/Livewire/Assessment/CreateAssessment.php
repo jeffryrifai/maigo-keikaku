@@ -146,7 +146,9 @@ class CreateAssessment extends Component
         $this->calculateScore();
 
         if($this->id_edit){
-            \DB::table('tr_assess')->update([
+            \DB::table('tr_assess')
+                ->where('id', $this->id_edit)
+                ->update([
                 "kode_tiket" => $this->kode_tiket,
                 "id_tenant" => $this->selected_tenant,
                 "id_category" => $this->selected_category,
